@@ -3,12 +3,10 @@
 ## short byi/byf/about me
 - i'm kinda annoying abt most topics
 - i have p bad anxiety, so if i don't respond to you, that's prob why :(
-- i am ***staunchly proship***, so if that's not cool w you, please block!
+- i am ***staunchly proship***(re: anti harassment, ship yucky stuff, all that), so if that's not cool w you, please block!
 - i'm bi, in my 20's, and tired
 ## dni
-- antis
-- minors. i have no prob w small talk, but i will not have full convos with kids
-- mha and hazbin fans (this is a JOKE idc what you like! some of y'all are annoying tho)
+- i don't really have a dni, but i will block if you're being overly annoying or just straight up harassing me
 ## interests (italic are heavy likes, bold + italic are hyperfixations)
 ### games
 - *stardew valley*
@@ -28,7 +26,17 @@
 - family guy
 - spongebob
 - tawog
-### musicals
+- *haunting of hill house*
+- *SAW*
+### musicals/artists/bands
 - ***heathers***
 - *ride the cyclone*
 - *cats*
+- fall out boy
+- green day
+- three days grace
+### other
+- *creepypasta*
+- playground by aron beauregard
+- alfred's playhouse (sort of. idk how to feel abt it)
+- all things horror really
