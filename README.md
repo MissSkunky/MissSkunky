@@ -3,7 +3,7 @@
 ## short byi/byf/about me
 - i'm kinda annoying abt most topics
 - i have p bad anxiety, so if i don't respond to you, that's prob why :(
-- i am heavily and staunchly proship, so if that's not cool w you, please block!
+- i am ***staunchly proship***, so if that's not cool w you, please block!
 - i'm bi, in my 20's, and tired
 ## dni
 - antis
