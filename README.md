@@ -5,6 +5,7 @@
 - i have p bad anxiety, so if i don't respond to you, that's prob why :(
 - i am ***staunchly proship***(re: anti harassment, ship yucky stuff, all that), so if that's not cool w you, please block!
 - i'm bi, in my 20's, and tired
+- ***if i am on the safe server, i am looking at ponies, or am simply afk. furthermore, 18+ players are allowed to be in the ss, it's not a kid-only space.***
 ## dni
 - i don't really have a dni, but i will block if you're being overly annoying or just straight up harassing me
 ## interests (italic are heavy likes, bold + italic are hyperfixations)
