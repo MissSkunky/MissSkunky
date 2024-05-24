@@ -1,4 +1,6 @@
 # haiii :3 read me!
+![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)
+
 ![gif of Robert Downey Jr. making a silly face and waving.](https://64.media.tumblr.com/272f6b93a030839733ebddcfdef335de/tumblr_mv7chh1gmf1qajc4eo1_500.gif)
 ## short byi/byf/about me
 - https://github.com/Michael-Afton1983 (the person sitting next to me on pt) ***IS MY SISTER*** i'm not just hanging out with some random 16 year old
