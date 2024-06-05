@@ -6,7 +6,7 @@
 - https://github.com/Michael-Afton1983 (the person sitting next to me on pt) ***IS MY SISTER*** i'm not just hanging out with some random 16 year old
 - i'm kinda annoying abt most topics
 - i have p bad anxiety, so if i don't respond to you, that's prob why :(
-- i am ***staunchly proship***(re: anti harassment, ship yucky stuff, all that), so if that's not cool w you, please block!
+- i am ***staunchly proship***(re: anti harassment, ship yucky stuff, all that), so if that's not cool w you, please ${\textsf{\color{red}block me!}}$
 - i'm bi, in my 20's, and tired
 - ***if i am on the safe server, i am looking at ponies, or am simply afk. furthermore, 18+ players are allowed to be in the ss, it's not a kid-only space.***
 ## ponytown status meaning
