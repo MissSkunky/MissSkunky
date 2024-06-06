@@ -13,6 +13,7 @@
 - 🟢(online): active and paying attention
 - 🌙(away): offtab, usually watching vids, not looking at pt
 - ⛔(busy): afk
+- if my name says -afk-, -offtab-, or -sleepin-, **whisper me!**
 ## dni
 - i don't really have a dni, but i will block if you're being overly annoying or just straight up harassing me
 ## interests (italic are heavy likes, bold + italic are hyperfixations)
