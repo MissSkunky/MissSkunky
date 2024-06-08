@@ -2,6 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)
 
 ![gif of Robert Downey Jr. making a silly face and waving.](https://64.media.tumblr.com/272f6b93a030839733ebddcfdef335de/tumblr_mv7chh1gmf1qajc4eo1_500.gif)
+
+visit my [strawpage](https://missskunky.straw.page/), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), or [my world of text](https://ourworldoftext.com/skunkys_world)!!<3
 ## short byi/byf/about me
 - https://github.com/Michael-Afton1983 (the person sitting next to me on pt) ***IS MY SISTER*** i'm not just hanging out with some random 16 year old
 - i'm kinda annoying abt most topics
@@ -13,9 +15,9 @@
 - 🟢(online): active and paying attention
 - 🌙(away): offtab, usually watching vids, not looking at pt
 - ⛔(busy): afk
-- if my name says -afk-, -offtab-, or -sleepin-, **whisper me!**
+- if my name says -afk-, -offtab-, -at work-, or -sleepin-, ${\textsf{\color{pink}whisper me!}}$
 ## dni
-- i don't really have a dni, but i will block if you're being overly annoying or just straight up harassing me
+- i don't really have a dni, but i will block if you're annoying (covering me or asking for supporter build limit) or just straight up harassing me
 ## interests (italic are heavy likes, bold + italic are hyperfixations)
 ### games
 - *stardew valley*
@@ -27,7 +29,7 @@
 - *powerwash simulator*
 ### tv/movies
 - ***MCU*** (tony stark and peter parker specifically ***<3***)
-- *iasip*
+- ***iasip***
 - *smiling friends*
 - *twin peaks*
 - american horror story
@@ -37,6 +39,7 @@
 - tawog
 - *haunting of hill house*
 - *SAW*
+- the amazing digital circus
 ### musicals/artists/bands
 - ***heathers***
 - *ride the cyclone*
@@ -44,6 +47,9 @@
 - fall out boy
 - green day
 - three days grace
+- panic! at the disco
+- blink-182
+- weezer
 ### other
 - *creepypasta*
 - playground by aron beauregard
