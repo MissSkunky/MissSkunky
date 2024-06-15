@@ -4,7 +4,11 @@
 ![gif of Robert Downey Jr. making a silly face and waving.](https://64.media.tumblr.com/272f6b93a030839733ebddcfdef335de/tumblr_mv7chh1gmf1qajc4eo1_500.gif)
 
 visit my [strawpage](https://missskunky.straw.page/), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), or [my world of text](https://ourworldoftext.com/skunkys_world)!!<3
-## ponytown status meaning
+## ponytown stuffs
+***C + H always okay if i'm afk/asleep/at work, but if i'm at keyboard, please ask!!***
+
+***overhead status meaning***
+
 - 🟢(online): active and paying attention
 - 🌙(away): offtab, usually watching vids, not looking at pt
 - ⛔(busy): afk
