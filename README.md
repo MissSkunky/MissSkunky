@@ -1,9 +1,10 @@
- # <h1 align="center"> ${\textsf{\color{RubineRed}haiii :3 read me!}}$</h1>
+<h1 align="center"> ${\textsf{\color{RubineRed}haiii :3 read me!}}$</h1> 
  
+<h5 align="center">
+ 
+![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)
 
-<p align="center">
-<![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)>
-</p>
+</h5>
 
 
 <p align="center">
