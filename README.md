@@ -1,6 +1,9 @@
  # <h1 align="center"> ${\textsf{\color{RubineRed}haiii :3 read me!}}$</h1>
+ 
 
-![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)
+<p align="center">
+<![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)>
+</p>
 
 
 <p align="center">
@@ -26,7 +29,7 @@ visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [gues
 - 🌙(away): offtab, usually watching vids, not looking at pt
 - ⛔(busy): afk
 
-***name status meaning***
+✿⊹₊ ***name status meaning*** ₊⊹✿
 - offtab: what it says on the tin; i'm off the tab
 - sleepin: i'm asleep :3
 - at work: again, i'm at work. usually get home around 10 EST
@@ -36,13 +39,13 @@ visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [gues
 - 🎭👀(:performing_arts: and :eyes:): i'm watchin' movies
 
 if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
-<h2 align="center">${\textsf{\color{RubineRed}dni}}$</h2>
+<h2 align="center">˚✩°｡⋆ ${\textsf{\color{RubineRed}dni}}$ ⋆｡°✩˚</h2>
 
 - i don't really have a dni, but i will block if you're annoying (covering me or asking for supporter build limit) or just straight up harassing me
 - i do however prefer anime fandom ppl not interact w me (i just don't know wtf y'all are talking about, i've only ever seen death note and ghost stories)
 - also dni if you like hoffman or adam x lawrence (SAW) (/hj only bc i do genuinely hate hoffman and that ship)
-### <h2 align="center">${\textsf{\color{RoyalPurple}interests (italic are heavy likes, bold + italic are hyperfixations)}}$</h2>
-#### games
+### <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}interests (italic are heavy likes, bold + italic are hyperfixations)}}$ ⋆｡°✩˚</h2>
+#### ✿⊹₊ games ₊⊹✿
 - *stardew valley*
 - *pony town(obvs)*
 - *fnaf*
@@ -51,7 +54,7 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - sonic the hedgehog
 - animal crossing
 - *powerwash simulator*
-#### tv/movies
+#### ✿⊹₊ tv/movies ₊⊹✿
 - ***MCU*** (tony stark and peter parker specifically ***<3***)
 - ***iasip***
 - *wkuk* (rip trevor moore T.T)
@@ -66,7 +69,7 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - *haunting of hill house*
 - *SAW* (NOT HOFFMAN OR ADAM x LAWRENCE. EW)
 - the amazing digital circus
-#### musicals/artists/bands
+#### ✿⊹₊ musicals/artists/bands ₊⊹✿
 - ***heathers***
 - *ride the cyclone*
 - *cats*
@@ -76,7 +79,7 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - panic! at the disco
 - blink-182
 - weezer
-#### other
+#### ✿⊹₊ other ₊⊹✿
 - ***RDJ*** <3 (my best friend, my pal, my sweet cheese, my good time boy)
 - *JERMA*
 - *markiplier* (and all his friends EXCEPT jack and ethan. they annoy me)
