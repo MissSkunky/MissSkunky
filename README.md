@@ -17,6 +17,7 @@ visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [gues
 
 - https://github.com/Michael-Afton1983 (the person sitting next to me on pt) ***IS MY SISTER*** i'm not just hanging out with some random 16 year old
 - i'm kinda annoying abt most topics
+- i WILL copy your speech patterns. idk why i do it, but i do (it's a thing i've noticed recently). if i'm doing it, lemme know
 - i have p bad anxiety, so if i don't respond to you, that's prob why :(
 - i am ${\textsf{\color{red}staunchly proship/profiction/anti-anti}}$ (here are some links [here](https://rentry.co/shipmeaning) and [here](https://define-proship.carrd.co/) that explain what those mean further), so if that's not cool w you, please ${\textsf{\color{red}block me!}}$
 - i'm bi, in my 20's, and tired
