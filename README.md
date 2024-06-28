@@ -12,6 +12,7 @@
 </p> 
 
 visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), or [my world of text](https://ourworldoftext.com/skunkys_world)!!<3
+genuine question for antis btw: go to my world of text. look at what ppl there say to me. do you ACTUALLY genuinely think that i (someone who enjoys yucky fiction) am worse than them (ppl legitimately harassing someone else and telling another living human being to kill themselves)? you're free to dislike me, but stop linking my world of text in global chat, because you're genuinely inviting people to kms, threaten to doxx me, murder me, and they are being sexist/racist/homophobic towards me, which, if you have even half of the morals you believe you do, you should not encourage. care more abt the real ppl you're hurting than the fictional characters that CAN'T be hurt. 
 
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}short byi/byf/about me}}$ ⋆｡°✩˚</h2>
 
