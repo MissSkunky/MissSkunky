@@ -11,7 +11,7 @@
 <img width="600" src="https://64.media.tumblr.com/272f6b93a030839733ebddcfdef335de/tumblr_mv7chh1gmf1qajc4eo1_500.gif" alt="Robert Downey Jr. smiling and waving">
 </p> 
 
-visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), or [my world of text](https://ourworldoftext.com/skunkys_world)!!<3
+visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), [my world of text](https://ourworldoftext.com/skunkys_world), or help hatch my eggs on [pokéfarm](https://pokefarm.com/user/missskunky)!!<3
 
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}short byi/byf/about me}}$ ⋆｡°✩˚</h2>
 
