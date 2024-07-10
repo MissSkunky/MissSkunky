@@ -11,6 +11,12 @@
 <img width="600" src="https://64.media.tumblr.com/272f6b93a030839733ebddcfdef335de/tumblr_mv7chh1gmf1qajc4eo1_500.gif" alt="Robert Downey Jr. smiling and waving">
 </p> 
 
+<div align="center">
+ 
+♥•♡∞:｡.｡**[CARRD WITH MY ART](https://missskunkyart.carrd.co)**｡.｡:∞♡•♥
+</div>
+
+
 visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), [my world of text](https://ourworldoftext.com/skunkys_world), or help hatch my eggs on [pokéfarm](https://pokefarm.com/user/missskunky)!!<3
 
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}short byi/byf/about me}}$ ⋆｡°✩˚</h2>
@@ -25,13 +31,20 @@ visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [gues
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalBlue}ponytown stuffs}}$ ⋆｡°✩˚</h2>
 <p align="center">${\textsf{\color{CarnationPink}C + H always okay if i'm afk/asleep/at work, but if i'm at keyboard, please ask!!}}$</p>
 
+<div align="center">
+ 
 ✿⊹₊ ***overhead status meaning*** ₊⊹✿
+</div>
 
 - 🟢(online): active and paying attention
 - 🌙(away): offtab, usually watching vids, not looking at pt
 - ⛔(busy): afk
 
+<div align="center">
+ 
 ✿⊹₊ ***name status meaning*** ₊⊹✿
+</div>
+ 
 - offtab: what it says on the tin; i'm off the tab
 - sleepin: i'm asleep :3
 - at work: again, i'm at work. usually get home around 10 EST
@@ -40,7 +53,10 @@ visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [gues
 - 🎧🎲 (:headphones: and :die:): i'm playing a game
 - 🎭👀(:performing_arts: and :eyes:): i'm watchin' movies
 
+<div align="center">
+ 
 if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
+</div>
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RubineRed}dni}}$ ⋆｡°✩˚</h2>
 
 - i don't really have a dni, but i will block if you're annoying (covering me or asking for supporter build limit) or just straight up harassing me
@@ -48,7 +64,7 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - also dni if you like hoffman or adam x lawrence (SAW) (/hj only bc i do genuinely hate hoffman and that ship)
 - ALSO would like to mention that, if you're a minor, you can interact w me, i'll ofc be nice, but i don't want to be friends w you
 ### <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}interests (italic are heavy likes, bold + italic are hyperfixations)}}$ ⋆｡°✩˚</h2>
-#### ✿⊹₊ games ₊⊹✿
+#### <h4 align="center"> ✿⊹₊ games ₊⊹✿  </h4>
 - *stardew valley*
 - *pony town(obvs)*
 - *fnaf*
@@ -57,7 +73,7 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - sonic the hedgehog
 - animal crossing
 - *powerwash simulator*
-#### ✿⊹₊ tv/movies ₊⊹✿
+#### <h4 align="center"> ✿⊹₊ tv/movies ₊⊹✿ </h4>
 - ***MCU*** (tony stark and peter parker specifically ***<3***)
 - ***iasip***
 - *wkuk* (rip trevor moore T.T)
@@ -72,7 +88,7 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - *haunting of hill house*
 - *SAW* (NOT HOFFMAN OR ADAM x LAWRENCE. EW)
 - the amazing digital circus
-#### ✿⊹₊ musicals/artists/bands ₊⊹✿
+#### <h4 align="center"> ✿⊹₊ musicals/artists/bands ₊⊹✿ </h4>
 - ***heathers***
 - *ride the cyclone*
 - *cats*
@@ -82,7 +98,7 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - panic! at the disco
 - blink-182
 - weezer
-#### ✿⊹₊ other ₊⊹✿
+#### <h4 align="center"> ✿⊹₊ other ₊⊹✿ </h4>
 - ***RDJ*** <3 (my best friend, my pal, my sweet cheese, my good time boy)
 - *JERMA*
 - *markiplier* (and all his friends EXCEPT jack and ethan. they annoy me)
