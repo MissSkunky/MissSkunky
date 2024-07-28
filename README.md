@@ -1,4 +1,6 @@
-<h1 align="center"> 🌈🍖 ${\textsf{\color{RubineRed}haiii :3 read me!}}$ 🍖🌈 </h1> 
+<h2 align="center"> 
+ 🌈🍖  ${\textsf{\color{RubineRed}haiii read me!}}$   🍖🌈 
+</h2> 
  
 <h5 align="center">
  
