@@ -19,6 +19,11 @@
 
 visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), [my world of text](https://ourworldoftext.com/skunkys_world), or help hatch my eggs on [pokéfarm](https://pokefarm.com/user/missskunky)!!<3
 
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ff0080&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
+</div>
+
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}short byi/byf/about me}}$ ⋆｡°✩˚</h2>
 
 - the [person sitting next to me on pt](https://github.com/Michael-Afton1983) ***IS MY SISTER*** i'm not just hanging out with some random 16 year old
