@@ -1,5 +1,5 @@
 <h2 align="center"> 
- 🌈🍖  ${\textsf{\color{RubineRed}haiii read me!}}$   🍖🌈 
+ 🌈🍖  ${\textsf{\color{RubineRed}NO MINORS BEYOND THIS POINT <3!}}$   🍖🌈 
 </h2> 
  
 <h5 align="center">
