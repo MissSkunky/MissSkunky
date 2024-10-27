@@ -87,7 +87,8 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - *powerwash simulator*
 #### <h4 align="center"> ✿⊹₊ tv/movies ₊⊹✿ </h4>
 - ***MCU*** (tony stark and peter parker specifically ***<3***)
-- ***iasip***
+- *iasip*
+- ***SUPERNATURAL***<3<3<3<3<3
 - *wkuk* (rip trevor moore T.T)
 - *smiling friends*
 - ***monsters inc*** (have been obsessed since i was a kid)
@@ -107,11 +108,14 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - fall out boy 
 - green day
 - three days grace
-- panic! at the disco
+- *panic! at the disco*
 - blink-182
 - weezer
 #### <h4 align="center"> ✿⊹₊ other ₊⊹✿ </h4>
 - ***RDJ*** <3 (my best friend, my pal, my sweet cheese, my good time boy)
+- *meatcanyon/papa meat*
+- *creepcast* (GOOD PODCAST LISTEN TO IT NOW)
+- red thread (not *as* good of a podcast but still fun + i love wendigoon so)
 - *JERMA*
 - *markiplier* (and all his friends EXCEPT jack and ethan. they annoy me)
 - *creepypasta*
@@ -123,5 +127,5 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - furries (fursuits are cute idc what anyone else says)
 - playground by aron beauregard
 - alfred's playhouse (sort of. idk how to feel abt it)
-- found footage horror movies
-- all things horror really (i've seen 450+ horror movies, so)
+- *found footage horror movies*
+- all things horror really (i've seen [450+ horror movies](https://letterboxd.com/Skunk314/), so)
