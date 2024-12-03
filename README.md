@@ -23,8 +23,10 @@
 ♥•♡∞:｡.｡**[PROSHIP CARRD](https://proshipresourcestcoaal.carrd.co)**｡.｡:∞♡•♥
 </div>
 
+<div align="center">
 
 visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), [my world of text](https://ourworldoftext.com/skunkys_world), or help hatch my eggs on [pokéfarm](https://pokefarm.com/user/missskunky)!!<3
+</div>
 
 <div align="center">
 
