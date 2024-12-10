@@ -35,7 +35,7 @@ visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [gues
 
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}short byi/byf/about me}}$ ⋆｡°✩˚</h2>
 
-- the [person sitting next to me on pt](https://github.com/Michael-Afton1983) ***IS MY SISTER*** i'm not just hanging out with some random 16 year old
+- the [person sitting next to me on pt](https://github.com/Michael-Afton1983) ***IS MY SISTER*** i'm not just hanging out with some random 17 year old
 - i'm kinda annoying abt most topics
 - i WILL copy your speech patterns. idk why i do it, but i do (it's a thing i've noticed recently). if i'm doing it, lemme know
 - i have p bad anxiety, so if i don't respond to you, that's prob why :(
