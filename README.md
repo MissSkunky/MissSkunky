@@ -25,7 +25,7 @@
 
 <div align="center">
 
-visit my [strawpage](https://missskunky.straw.page/) (pls draw something), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), [my world of text](https://ourworldoftext.com/skunkys_world), or help hatch my eggs on [pokéfarm](https://pokefarm.com/user/missskunky)!!<3
+visit my [strawpage](https://missskunky.straw.page/) (pls draw something), my [rentry](https://rentry.co/missskunky) (I WORKED SO HARD ON THIS YOU HAVE NO IDEA), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), [my world of text](https://ourworldoftext.com/skunkys_world), or help hatch my eggs on [pokéfarm](https://pokefarm.com/user/missskunky)!!<3
 </div>
 
 <div align="center">
