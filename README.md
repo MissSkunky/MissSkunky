@@ -1,17 +1,21 @@
-<h2 align="center"> 
- 🌈🍖  ${\textsf{\color{RubineRed}NO MINORS BEYOND THIS POINT <3!}}$   🍖🌈 
-</h2> 
- 
-<h5 align="center">
- 
-![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)
-
-</h5>
-
+<h1 align="center">🌈🍖 ${\textsf{\color{RubineRed}NO MINORS BEYOND THIS POINT!}}$ 🍖🌈</h1> 
 
 <p align="center">
-<img width="600" src="https://64.media.tumblr.com/272f6b93a030839733ebddcfdef335de/tumblr_mv7chh1gmf1qajc4eo1_500.gif" alt="Robert Downey Jr. smiling and waving">
+ <img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee">
 </p> 
+
+<div align="center">
+ <a href="https://missskunkyart.carrd.co/" target="_blank"><img width="88" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a>
+ <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="88" src="https://files.catbox.moe/cfi3wz.gif" alt="Guestbook"></a>
+ <a href="https://ourworldoftext.com/skunkys_world"><img width="88" src="https://files.catbox.moe/6acbgf.gif" alt="Our World of Text"></a>
+ <a href="https://rentry.co/missskunky"><img width="88" src="https://files.catbox.moe/ak5liq.gif" alt="Rentry"></a>
+ <a href="https://missskunky.straw.page/"><img width="88" src="https://files.catbox.moe/j602wy.gif" alt="Strawpage"></a>
+</div>
+
+<h5 align="center">
+ 
+ ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)
+</h5>
 
 <div align="center">
  
