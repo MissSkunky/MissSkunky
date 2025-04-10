@@ -1,132 +1,204 @@
+<!--don't look at this it's a mess bc i'm too used to HTML and CSS </3-->
 <p align="center">🌈🍖 ${{\color{#8bdfe1}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ 🍖🌈</p>
 
 <div align="center">
- <img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee">
+  <a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a>
 </div> 
 
 <!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username= YOUR USER e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the spaces!  
 you also need to have a blank line between the opening div and the counter :3c -->
 <div align="center">
- 
- ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff9b9b)
+
+  ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff9b9b)
 </div>
 
 <div align="center">
- <a href="https://missskunky.straw.page/"><img width="132" src="https://files.catbox.moe/j602wy.gif" alt="Strawpage"></a>
- <a href="https://ourworldoftext.com/skunkys_world"><img width="132" src="https://files.catbox.moe/6acbgf.gif" alt="Our World of Text"></a>
- <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/cfi3wz.gif" alt="Guestbook"></a>
- <a href="https://rentry.co/missskunky"><img width="132" src="https://files.catbox.moe/ak5liq.gif" alt="Rentry"></a>
+  <a href="https://missskunky.straw.page/"><img width="132" src="https://files.catbox.moe/j602wy.gif" alt="Strawpage"></a>
+  <a href="https://ourworldoftext.com/skunkys_world"><img width="132" src="https://files.catbox.moe/6acbgf.gif" alt="Our World of Text"></a>
+  <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/cfi3wz.gif" alt="Guestbook"></a>
+  <a href="https://rentry.co/missskunky"><img width="132" src="https://files.catbox.moe/ak5liq.gif" alt="Rentry"></a>
  <br>
- <a href="https://missskunkyart.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a>
- <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/tr8akb.gif" alt="Letterboxd"></a>
- <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/qsu37q.gif" alt="Proship Carrd"></a>
+  <a href="https://missskunkyart.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a>
+  <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/tr8akb.gif" alt="Letterboxd"></a>
+  <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/qsu37q.gif" alt="Proship Carrd"></a>
 </div>
 
+<!--for the spotify one, you need to go to https://github.com/kittinan/spotify-github-profile and follow the steps!
+  
+    for the last.fm one, you need to go to https://github.com/JeffreyCA/lastfm-recently-played-readme and do the same :3c-->
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=default&show_offline=true&background_color=886f94&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=missskunky&count=7&show_user=always&header_style=compact_stats_only&bg_color=886f94&width=320)](https://www.last.fm/user/missskunky)
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=default&show_offline=true&background_color=886f94&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
+  [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=missskunky&count=7&show_user=always&header_style=compact_stats_only&bg_color=886f94&width=320)](https://www.last.fm/user/missskunky)
 </div>
 
-<h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}short byi/byf/about me}}$ ⋆｡°✩˚</h2>
+*******
+<p align="center">${{\color{#ff9b9b}\Huge{\texttt{˚✩°｡⋆ QUICK BYI/FAQ ⋆｡°✩˚}}}}$</h2>
 
-- the [person sitting next to me on pt](https://github.com/Michael-Afton1983) ***IS MY SISTER*** i'm not just hanging out with some random 17 year old
-- i'm kinda annoying abt most topics
-- i WILL copy your speech patterns. idk why i do it, but i do (it's a thing i've noticed recently). if i'm doing it, lemme know
-- i have p bad anxiety, so if i don't respond to you, that's prob why :(
-- i am ${\textsf{\color{red}staunchly proship/profiction/anti-anti}}$ (here are some links [here](https://rentry.co/shipmeaning) and [here](https://define-proship.carrd.co/) that explain what those mean further), so if that's not cool w you, please ${\textsf{\color{red}block me!}}$
-- i'm bi, in my 20's, and tired
-- ***if i am on the safe server, i am looking at ponies, or am simply afk. furthermore, 18+ players are allowed to be in the ss, it's not a kid-only space.***
-<h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalBlue}ponytown stuffs}}$ ⋆｡°✩˚</h2>
-<p align="center">${\textsf{\color{CarnationPink}C + H always okay if i'm afk/asleep/at work, but if i'm at keyboard, please ask!!}}$</p>
+*******
+  ✩ check out <a href="https://github.com/Michael-Afton1983">my sibling next to me!</a> or i'll Get You
+ 
+  ♥ <strong>i chill on the safe server bc the 18+ server makes me uncomfortable. ppl there are way too sexual, and too many antis have told me to kms in some real nasty ways, so! i'm not going back you can't      make me</strong>
+ 
+  ✩ i am ${{\color{#F00000}\Huge{\textsf{staunchly}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{proship, profiction, anti-harassment, and proud of it}}}}$ [^1] [^2] [^3], so if that bothers you. idk, leave. idk what to   tell you
+ 
+  ♥ i'm 24, bisexual, chronically online, and strugging to stay alive 🤙
+ 
+  ✩ i have pretty bad anxiety, so if i dip or just don't talk to you, that's prob why :S
+ 
+  ♥ if you talk to me about supernatural, there's a high chance i won't shut up
+*******
 
+<p align="center">${{\color{#8bdfe1}\Huge{\texttt{✿⊹₊ DNI ₊⊹✿}}}}$ </p>
+<p align="center"><sup> ${{\color{#8bdfe1}\small{\texttt{•*. but not really bc they don't work and i block liberally .*•}}}}$ </sup></p>
+
+*******
+  ⸙ hoffman stans and adam/lawrence fans (SAW). i hate hate hate hoffman and adam/lawrence is just Not For Me. 
+
+  𓋼 antis. obviously. we're just not gonna agree.
+
+  ⚘ tcc. cool with zero day fans and stuff, but if you genuinelly like dylan klebold, adam lanza, randy stair, etc., don't int w me please
+
+  ↟ sam winchester haters, hellers, (some) castiel stans. i respect y'all but i'm so attached to sammy that it's bad for my mental health to int with you guys
+
+  ☘︎ minors are on thin ice. you can interact, i'll be nice, but i'm not tryna be besties with a child, ya dig
+*******
+<p align="center">${{\color{#ff9b9b}\Huge{\texttt{˚✩°｡⋆ INTERESTS ⋆｡°✩˚}}}}$ </p>
+<p align="center"><sup> ${{\color{#ff9b9b}\small{\texttt{•*. (italic are heavy likes, bold + italic are hyperfixations) .*•}}}}$ </sup></p>
+
+*******
+<div align="center">  
+          <!--  GAMES  -->  
+  <details>
+    <summary>${\textsf{\color{#8bdfe1}▀▄▀▄ GAMES ▄▀▄▀}}$</summary>
+    <table>
+      <tr>
+        <td><i>stardew valley</i></th>
+        <td><i>pony town</i></th>
+        <td><b><i>fnaf sb</b></i></td>
+        <td>TCOAAL</td>
+      </tr>
+      <tr>
+        <td>animal crossing</td>
+        <td><i>powerwash sim</i></td>
+        <td><b><i>roblox</i></b></td>
+        <td>sonic</td>
+      </tr>
+      <tr>
+        <td>minecraft</td>
+        <td><b><i>portal</i></b></td>
+        <td><i>mass effect</i></td>
+        <td>subnautica</td>
+      </tr>
+      <tr>
+        <td>skyrim</td>
+        <td>outlast</td>
+        <td><b><i>myhouse.wad</i></b></td>
+        <td>mario kart</td>
+      </tr>
+    </table>
+  </details>
+          <!--  MOVIES  -->
+  <details>
+    <summary>${\textsf{\color{#ff9b9b}↻◁ || TV/MOVIES || ▷↺}}$</summary>
+    <table>
+      <tr>
+        <td><b><i>MCU</i></b></td>
+        <td><i>iasip</i></td>
+        <td><b><i>SUPERNATURAL</i></b></td>
+        <td><i>WKUK</i></td>
+      </tr>
+      <tr>
+        <td><i>smiling friends</i></td>
+        <td><b><i>monsters inc</i></b></td>
+        <td><i>twin peaks</i></td>
+        <td><i>american dad</i></td>
+      </tr>
+      <tr>
+        <td>american horror story</td>
+        <td>family guy</td>
+        <td>spongebob</td>
+        <td>tawog</td>
+      </tr>
+      <tr>
+        <td><i>haunting of hill house</i></td>
+        <td>SAW</td>
+        <td>tadc</td>
+        <td><i>flapjack</i></td>
+      </tr>
+    </table>
+  </details>
+          <!--  MUSIC  -->
+  <details>
+    <table>
+      <summary>${\textsf{\color{#8bdfe1}♩ ♪ ♫ 𝄞 MUSIC 𝄞 ♫ ♪ ♩}}$</summary>
+      <tr>
+        <td><b><i>heathers</i></b></td>
+        <td><i>ride the cyclone</i></td>
+        <td><i>cats</i></td>
+        <td><b><i>cabaret</i></b></td>
+      </tr>
+      <tr>
+        <td><i>chicago</i></td>
+        <td>fall out boy</td>
+        <td>green day</td>
+        <td>three days grace</td>
+      </tr>
+      <tr>
+        <td>panic at the disco</td>
+        <td>blink-182</td>
+        <td>hollywood undead</td>
+        <td>chappell roan</td>
+      </tr>
+      <tr>
+        <td><i>my chemical romance</i></td>
+        <td>kesha</td>
+        <td>joji</td>
+        <td>symmetry icon ;)</td>
+      </tr>
+    </table>
+  </details>
+          <!--  OTHER  -->
+  <details>
+    <summary>${\textsf{\color{#ff9b9b}☀︎ ﾟ⋆°·☁︎ OTHER ☁︎·°⋆ ﾟ☀︎}}$</summary>
+    <table>
+      <tr>
+        <td><i>creepcast/wendigoon/papa meat!</i></td>
+        <td><i>markiplier</i></td>
+        <td>jeremiah 985</td>
+        <td>car crash videos</td>
+      </tr>
+      <tr>
+        <td>creepypasta</td>
+        <td><i>police bodycam vids</i></td>
+        <td>furries</td>
+        <td>horror</td>
+      </tr>
+      <tr>
+        <td><i>astralspiff</i></td>
+        <td>tapirs</td>
+        <td>supernatural again</td>
+        <td>sammy</td>
+      </tr>
+      <tr>
+        <td><b><i>wincest</i></b></td>
+        <td><i>tumblr</i></td>
+        <td><b><i>RDJ</i></b></td>
+        <td><b><i>JARED PADALECKI</i></b></td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+*******
 <div align="center">
- 
-✿⊹₊ ***overhead status meaning*** ₊⊹✿
+  <p>YAY you made it to the bottom! here's a couple of my fave videos for your enjoyment :3c</p>
+  <sup>will prob change these out once a week...</sup>
+    
+  [![No One Can Find This "Creepy Dinosaur" Game...](https://files.catbox.moe/l4t1yq.PNG)](https://www.youtube.com/watch?v=QxJZ7giOefs)
+  [![Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest](https://files.catbox.moe/5pmy8d.PNG)](https://www.youtube.com/watch?v=jJfgHa49GX0)
 </div>
 
-- 🟢(online): active and paying attention
-- 🌙(away): offtab, usually watching vids, not looking at pt
-- ⛔(busy): afk
-
-<div align="center">
- 
-✿⊹₊ ***name status meaning*** ₊⊹✿
-</div>
- 
-- offtab: what it says on the tin; i'm off the tab
-- sleepin: i'm asleep :3
-- at work: again, i'm at work. usually get home around 10 EST
-- 🖌️🖌️ (:brush: and :brush:): i'm drawing
-- 🧸📍 (:teddy: and :round_pin:): i'm crocheting
-- 🎧🎲 (:headphones: and :die:): i'm playing a game
-- 🎭👀(:performing_arts: and :eyes:): i'm watchin' movies
-
-<div align="center">
- 
-if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
-</div>
-<h2 align="center">˚✩°｡⋆ ${\textsf{\color{RubineRed}dni}}$ ⋆｡°✩˚</h2>
-
-- i don't really have a dni, but i will block if you're annoying (covering me or asking for supporter build limit) or just straight up harassing me
-- i do however prefer anime fandom ppl not interact w me (i just don't know wtf y'all are talking about, i've only ever seen death note and ghost stories)
-- also dni if you like hoffman or adam x lawrence (SAW) (/hj only bc i do genuinely hate hoffman and that ship)
-- ALSO would like to mention that, if you're a minor, you can interact w me, i'll ofc be nice, but i don't want to be friends w you
-### <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}interests (italic are heavy likes, bold + italic are hyperfixations)}}$ ⋆｡°✩˚</h2>
-#### <h4 align="center"> ✿⊹₊ games ₊⊹✿  </h4>
-- *stardew valley*
-- *pony town(obvs)*
-- *fnaf*
-- ***fnaf security breach*** (this one's my fave)
-- the coffin of andy and leyley
-- sonic the hedgehog
-- animal crossing
-- *powerwash simulator*
-#### <h4 align="center"> ✿⊹₊ tv/movies ₊⊹✿ </h4>
-- ***MCU*** (tony stark and peter parker specifically ***<3***)
-- *iasip*
-- ***SUPERNATURAL***<3<3<3<3<3
-- *wkuk* (rip trevor moore T.T)
-- *smiling friends*
-- ***monsters inc*** (have been obsessed since i was a kid)
-- *twin peaks*
-- american horror story
-- *american dad*
-- family guy
-- spongebob
-- tawog
-- *haunting of hill house*
-- *SAW* (NOT HOFFMAN OR ADAM x LAWRENCE. EW)
-- the amazing digital circus
-#### <h4 align="center"> ✿⊹₊ musicals/artists/bands ₊⊹✿ </h4>
-- ***heathers***
-- *ride the cyclone*
-- *cats*
-- fall out boy 
-- green day
-- three days grace
-- *panic! at the disco*
-- blink-182
-- weezer
-#### <h4 align="center"> ✿⊹₊ other ₊⊹✿ </h4>
-- ***RDJ*** <3 (my best friend, my pal, my sweet cheese, my good time boy)
-- *meatcanyon/papa meat*
-- *creepcast* (GOOD PODCAST LISTEN TO IT NOW)
-- red thread (not *as* good of a podcast but still fun + i love wendigoon so)
-- *JERMA*
-- *markiplier* (and all his friends EXCEPT jack and ethan. they annoy me)
-- *creepypasta*
-- ***being bisexual, eating hot chip, and lying***
-- true crime (but not in the way the tcc like it (they're gross))
-- *car crash/accident videos* (non fatal ones. feel like i gotta add that)
-- *police body cam videos*
-- oversharing on the internet
-- furries (fursuits are cute idc what anyone else says)
-- playground by aron beauregard
-- alfred's playhouse (sort of. idk how to feel abt it)
-- *found footage horror movies*
-- all things horror really (i've seen [450+ horror movies](https://letterboxd.com/Skunk314/), so)
-
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
-
+[^1]:[https://rentry.co/shipmeaning]
+[^2]:[https://define-proship.carrd.co/]
+[^3]:[https://proshipresourcesaccessible.carrd.co/]
