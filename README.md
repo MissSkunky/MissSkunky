@@ -126,3 +126,7 @@ if any of these are in my name, please ${\textsf{\color{pink}whisper me!}}$
 - alfred's playhouse (sort of. idk how to feel abt it)
 - *found footage horror movies*
 - all things horror really (i've seen [450+ horror movies](https://letterboxd.com/Skunk314/), so)
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
