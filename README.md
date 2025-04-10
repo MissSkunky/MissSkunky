@@ -24,8 +24,8 @@ you also need to have a blank line between the opening div and the counter :3c -
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=default&show_offline=true&background_color=d4deff&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
-![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=missskunky&count=7&show_user=always&header_style=compact_stats_only)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=default&show_offline=true&background_color=886f94&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=missskunky&count=7&show_user=always&header_style=compact_stats_only&bg_color=886f94&width=320)](https://www.last.fm/user/missskunky)
 </div>
 
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}short byi/byf/about me}}$ ⋆｡°✩˚</h2>
