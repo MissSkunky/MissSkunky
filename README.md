@@ -1,4 +1,4 @@
-<p align="center">🌈🍖 ${{\color{RubineRed}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ 🍖🌈</p>
+<p align="center">🌈🍖 ${{\color{#8bdfe1}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ 🍖🌈</p>
 
 <div align="center">
  <img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee">
@@ -8,7 +8,7 @@
 you also need to have a blank line between the opening div and the counter :3c -->
 <div align="center">
  
- ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)
+ ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff9b9b)
 </div>
 
 <div align="center">
@@ -24,7 +24,8 @@ you also need to have a blank line between the opening div and the counter :3c -
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ff0080&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=default&show_offline=true&background_color=d4deff&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
+![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=missskunky&count=7&show_user=always&header_style=compact_stats_only)
 </div>
 
 <h2 align="center">˚✩°｡⋆ ${\textsf{\color{RoyalPurple}short byi/byf/about me}}$ ⋆｡°✩˚</h2>
