@@ -195,8 +195,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   <p>YAY you made it to the bottom! here's a couple of my fave videos for your enjoyment :3c</p>
   <sup>will prob change these out once a week...</sup>
     
-  [![No One Can Find This "Creepy Dinosaur" Game...](https://files.catbox.moe/l4t1yq.PNG)](https://www.youtube.com/watch?v=QxJZ7giOefs)
-  [![Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest](https://files.catbox.moe/5pmy8d.PNG)](https://www.youtube.com/watch?v=jJfgHa49GX0)
+  [![No One Can Find This "Creepy Dinosaur" Game...](https://files.catbox.moe/ms41d3.png)](https://www.youtube.com/watch?v=QxJZ7giOefs)
+  [![Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest](https://files.catbox.moe/lgcnbl.png)](https://www.youtube.com/watch?v=jJfgHa49GX0)
 </div>
 
 [^1]:[https://rentry.co/shipmeaning]
