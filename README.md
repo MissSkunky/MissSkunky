@@ -1,35 +1,25 @@
-<h1 align="center">🌈🍖 ${\textsf{\color{RubineRed}NO MINORS BEYOND THIS POINT!}}$ 🍖🌈</h1> 
-
-<p align="center">
- <img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee">
-</p> 
+<p align="center">🌈🍖 ${{\color{RubineRed}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ 🍖🌈</p>
 
 <div align="center">
- <a href="https://missskunkyart.carrd.co/" target="_blank"><img width="88" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a>
- <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="88" src="https://files.catbox.moe/cfi3wz.gif" alt="Guestbook"></a>
- <a href="https://ourworldoftext.com/skunkys_world"><img width="88" src="https://files.catbox.moe/6acbgf.gif" alt="Our World of Text"></a>
- <a href="https://rentry.co/missskunky"><img width="88" src="https://files.catbox.moe/ak5liq.gif" alt="Rentry"></a>
- <a href="https://missskunky.straw.page/"><img width="88" src="https://files.catbox.moe/j602wy.gif" alt="Strawpage"></a>
-</div>
+ <img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee">
+</div> 
 
-<h5 align="center">
+<!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username= YOUR USER e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the spaces!  
+you also need to have a blank line between the opening div and the counter :3c -->
+<div align="center">
  
  ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=ff63c1)
-</h5>
-
-<div align="center">
- 
-♥•♡∞:｡.｡**[CARRD WITH MY ART](https://missskunkyart.carrd.co)**｡.｡:∞♡•♥
 </div>
 
 <div align="center">
- 
-♥•♡∞:｡.｡**[PROSHIP CARRD](https://proshipresourcestcoaal.carrd.co)**｡.｡:∞♡•♥
-</div>
-
-<div align="center">
-
-visit my [strawpage](https://missskunky.straw.page/) (pls draw something), my [rentry](https://rentry.co/missskunky) (I WORKED SO HARD ON THIS YOU HAVE NO IDEA), [guestbook](http://users3.smartgb.com/g/g.php?a=s&i=g36-36309-7f), [my world of text](https://ourworldoftext.com/skunkys_world), or help hatch my eggs on [pokéfarm](https://pokefarm.com/user/missskunky)!!<3
+ <a href="https://missskunky.straw.page/"><img width="132" src="https://files.catbox.moe/j602wy.gif" alt="Strawpage"></a>
+ <a href="https://ourworldoftext.com/skunkys_world"><img width="132" src="https://files.catbox.moe/6acbgf.gif" alt="Our World of Text"></a>
+ <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/cfi3wz.gif" alt="Guestbook"></a>
+ <a href="https://rentry.co/missskunky"><img width="132" src="https://files.catbox.moe/ak5liq.gif" alt="Rentry"></a>
+ <br>
+ <a href="https://missskunkyart.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a>
+ <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/tr8akb.gif" alt="Letterboxd"></a>
+ <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/qsu37q.gif" alt="Proship Carrd"></a>
 </div>
 
 <div align="center">
