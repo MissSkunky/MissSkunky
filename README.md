@@ -194,10 +194,14 @@ you also need to have a blank line between the opening div and the counter :3c -
 <div align="center">
   <p>YAY you made it to the bottom! here's a couple of my fave videos for your enjoyment :3c</p>
   <sup>will prob change these out once a week...</sup>
+
+  [![Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke](https://files.catbox.moe/j58ace.png)](https://youtu.be/uk_3q6XAH1Q?si=x0w49GbVYDzWPv8o)
+  [![squirrel stapler](https://files.catbox.moe/tldi9t.png)](https://youtu.be/iWG3KZSzqUY?si=3ySzXI14tgkdb8V5)
     
-  [![No One Can Find This "Creepy Dinosaur" Game...](https://files.catbox.moe/v8x5rd.png)](https://www.youtube.com/watch?v=QxJZ7giOefs)
+<!--Sagan Hawkes/Defunctland-->
+<!--  [![No One Can Find This "Creepy Dinosaur" Game...](https://files.catbox.moe/v8x5rd.png)](https://www.youtube.com/watch?v=QxJZ7giOefs)
   [![Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest](https://files.catbox.moe/kcr5kn.png)](https://www.youtube.com/watch?v=jJfgHa49GX0)
-</div>
+</div> -->
 
 [^1]:[https://rentry.co/shipmeaning]
 [^2]:[https://define-proship.carrd.co/]
