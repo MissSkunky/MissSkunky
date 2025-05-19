@@ -21,6 +21,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://missskunkyart.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a>
   <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/tr8akb.gif" alt="Letterboxd"></a>
   <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/qsu37q.gif" alt="Proship Carrd"></a>
+  <br>
+  <a href="https://missskunky-graphics.neocities.org/" target="_blank"><img width="132" src="https://files.catbox.moe/kv2t3n.gif" alt="Graphics Site></a>
 </div>
 
 <!--for the spotify one, you need to go to https://github.com/kittinan/spotify-github-profile and follow the steps!
@@ -194,17 +196,19 @@ you also need to have a blank line between the opening div and the counter :3c -
 <div align="center">
   <p>YAY you made it to the bottom! here's a couple of my fave videos for your enjoyment :3c</p>
   <sup>will prob change these out once a week...</sup>
-
-  [![THE VIDEO ENDS WHEN I SOIL MYSELF](https://files.catbox.moe/0ajaga.png "THE VIDEO ENDS WHEN I SOIL MYSELF")](https://youtu.be/m--6ifZXy5k?si=MWL1qRvlxw7srsXv)
-  [![Evil](https://files.catbox.moe/zqlnkv.png "Evil")](https://youtu.be/ME4-lQOa88U?si=LK91-ozuxIIKbdUj)
+  
+  [![FF Debates 2011: Elijah Wood Challenges Dominic Monaghan](https://files.catbox.moe/f05v0o.png "FF Debates 2011: Elijah Wood Challenges Dominic Monaghan")](https://youtu.be/IkGdHXJoMbk?si=yfCeqwBbE7DGhgdv)
+  [![buddy holly bitcrushed nightcore](https://files.catbox.moe/7767nr.png "buddy holly bitcrushed nightcore")](https://youtu.be/ESOyXKytHr4?si=oeewU7HBN15gZCaU)
 
 <!--  
+  [![THE VIDEO ENDS WHEN I SOIL MYSELF](https://files.catbox.moe/0ajaga.png "THE VIDEO ENDS WHEN I SOIL MYSELF")](https://youtu.be/m--6ifZXy5k?si=MWL1qRvlxw7srsXv)
+  [![Evil](https://files.catbox.moe/zqlnkv.png "Evil")](https://youtu.be/ME4-lQOa88U?si=LK91-ozuxIIKbdUj)
   [![No One Can Find This "Creepy Dinosaur" Game...](https://files.catbox.moe/v8x5rd.png "No One Can Find This "Creepy Dinosaur" Game...")](https://www.youtube.com/watch?v=QxJZ7giOefs)
   [![Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest](https://files.catbox.moe/kcr5kn.png "Defunctland: The History of the Worst Seaworld Ride, Submarine Quest")](https://www.youtube.com/watch?v=jJfgHa49GX0)
   [![Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke](https://files.catbox.moe/j58ace.png "Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke")](https://youtu.be/uk_3q6XAH1Q?si=x0w49GbVYDzWPv8o)
   [![squirrel stapler](https://files.catbox.moe/tldi9t.png "squirrel stapler")](https://youtu.be/iWG3KZSzqUY?si=3ySzXI14tgkdb8V5)
 -->
-  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 05/08/2025 :3c}}}$ 🖤🦨🤍
+  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 05/19/2025 :3c}}}$ 🖤🦨🤍
 </div>
 
 [^1]:[https://rentry.co/shipmeaning]
