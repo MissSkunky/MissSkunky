@@ -1,5 +1,5 @@
 <!--don't look at this it's a mess bc i'm too used to HTML and CSS </3-->
-<p align="center">🌈🍖 ${\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}$ 🍖🌈</p>
+<p align="center">🌈🍖 ${{\color{#8bdfe1}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ 🍖🌈</p>
 
 <div align="center">
   <a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a>
@@ -35,14 +35,14 @@ you also need to have a blank line between the opening div and the counter :3c -
 </div>
 
 *******
-<p align="center">${\Huge{\texttt{˚✩°｡⋆ QUICK BYI/FAQ ⋆｡°✩˚}}}$</h2>
+<p align="center">${{\color{#ff9b9b}\Huge{\texttt{˚✩°｡⋆ QUICK BYI/FAQ ⋆｡°✩˚}}}}$</h2>
 
 *******
   ✩ check out <a href="https://github.com/Michael-Afton1983">my sibling next to me!</a> or i'll Get You
  
-  ♥ <strong>i chill on the safe server bc the 18+ server makes me uncomfortable. ppl there are way too sexual, and too many antis have told me to kms in some real nasty ways, so! i'm not going back you can't make me</strong>
+  ♥ <strong>i chill on the safe server bc the 18+ server makes me uncomfortable. ppl there are way too sexual, and too many antis have told me to kms in some real nasty ways, so! i'm not going back you can't      make me</strong>
  
-  ✩ i am ${\Huge{\textsf{staunchly}}}$ ${\Huge{\textsf{proship, profiction, anti-harassment, and proud of it}}}$ [^1] [^2] [^3], so if that bothers you. idk, leave. idk what to   tell you
+  ✩ i am ${{\color{#F00000}\Huge{\textsf{staunchly}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{proship, profiction, anti-harassment, and proud of it}}}}$ [^1] [^2] [^3], so if that bothers you. idk, leave. idk what to   tell you
  
   ♥ i'm 24, bisexual, chronically online, and strugging to stay alive 🤙
  
@@ -51,8 +51,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   ♥ if you talk to me about supernatural, there's a high chance i won't shut up
 *******
 
-<p align="center">${\Huge{\texttt{✿⊹₊ DNI ₊⊹✿}}}$ </p>
-<p align="center"><sup> ${\small{\texttt{•*. but not really bc they don't work and i block liberally .*•}}}$ </sup></p>
+<p align="center">${{\color{#8bdfe1}\Huge{\texttt{✿⊹₊ DNI ₊⊹✿}}}}$ </p>
+<p align="center"><sup> ${{\color{#8bdfe1}\small{\texttt{•*. but not really bc they don't work and i block liberally .*•}}}}$ </sup></p>
 
 *******
   ⸙ hoffman stans and adam/lawrence fans (SAW). i hate hate hate hoffman and adam/lawrence is just Not For Me. 
@@ -65,14 +65,14 @@ you also need to have a blank line between the opening div and the counter :3c -
 
   ☘︎ minors are on thin ice. you can interact, i'll be nice, but i'm not tryna be besties with a child, ya dig
 *******
-<p align="center">${\Huge{\texttt{˚✩°｡⋆ INTERESTS ⋆｡°✩˚}}}$ </p>
-<p align="center"><sup> ${\small{\texttt{•*. (italic are heavy likes, bold + italic are hyperfixations) .*•}}}$ </sup></p>
+<p align="center">${{\color{#ff9b9b}\Huge{\texttt{˚✩°｡⋆ INTERESTS ⋆｡°✩˚}}}}$ </p>
+<p align="center"><sup> ${{\color{#ff9b9b}\small{\texttt{•*. (italic are heavy likes, bold + italic are hyperfixations) .*•}}}}$ </sup></p>
 
 *******
 <div align="center">  
           <!--  GAMES  -->  
   <details>
-    <summary>▀▄▀▄ GAMES ▄▀▄▀</summary>
+    <summary>${\textsf{\color{#8bdfe1}▀▄▀▄ GAMES ▄▀▄▀}}$</summary>
     <table>
       <tr>
         <td><i>stardew valley</i></th>
@@ -102,7 +102,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   </details>
           <!--  MOVIES  -->
   <details>
-    <summary>↻◁ || TV/MOVIES || ▷↺</summary>
+    <summary>${\textsf{\color{#ff9b9b}↻◁ || TV/MOVIES || ▷↺}}$</summary>
     <table>
       <tr>
         <td><b><i>MCU</i></b></td>
@@ -133,7 +133,7 @@ you also need to have a blank line between the opening div and the counter :3c -
           <!--  MUSIC  -->
   <details>
     <table>
-      <summary>♩ ♪ ♫ 𝄞 MUSIC 𝄞 ♫ ♪ ♩</summary>
+      <summary>${\textsf{\color{#8bdfe1}♩ ♪ ♫ 𝄞 MUSIC 𝄞 ♫ ♪ ♩}}$</summary>
       <tr>
         <td><b><i>heathers</i></b></td>
         <td><i>ride the cyclone</i></td>
@@ -162,7 +162,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   </details>
           <!--  OTHER  -->
   <details>
-    <summary>☀︎ ﾟ⋆°·☁︎ OTHER ☁︎·°⋆ ﾟ☀︎</summary>
+    <summary>${\textsf{\color{#ff9b9b}☀︎ ﾟ⋆°·☁︎ OTHER ☁︎·°⋆ ﾟ☀︎}}$</summary>
     <table>
       <tr>
         <td><i>creepcast/wendigoon/papa meat!</i></td>
@@ -197,10 +197,12 @@ you also need to have a blank line between the opening div and the counter :3c -
   <p>YAY you made it to the bottom! here's a couple of my fave videos for your enjoyment :3c</p>
   <sup>will prob change these out once a week...</sup>
   
+  [![Jackie's Box - Otamatone Cover](https://files.catbox.moe/mmcfgi.png "Jackie's Box - Otamatone Cover")](https://youtu.be/KBzaZXbhIzc?si=MbiABOvI2JQu1V1B)
+  [![Trying To Find My Worst Fears (feat. Wendigoon)](https://files.catbox.moe/lsmoc1.png "Trying To Find My Worst Fears (feat. Wendigoon)")](https://youtu.be/9wJI0JaFXps?si=4skbttu9VxCgFP-Z)
+
+<!--
   [![FF Debates 2011: Elijah Wood Challenges Dominic Monaghan](https://files.catbox.moe/f05v0o.png "FF Debates 2011: Elijah Wood Challenges Dominic Monaghan")](https://youtu.be/IkGdHXJoMbk?si=yfCeqwBbE7DGhgdv)
   [![buddy holly bitcrushed nightcore](https://files.catbox.moe/7767nr.png "buddy holly bitcrushed nightcore")](https://youtu.be/ESOyXKytHr4?si=oeewU7HBN15gZCaU)
-
-<!--  
   [![THE VIDEO ENDS WHEN I SOIL MYSELF](https://files.catbox.moe/0ajaga.png "THE VIDEO ENDS WHEN I SOIL MYSELF")](https://youtu.be/m--6ifZXy5k?si=MWL1qRvlxw7srsXv)
   [![Evil](https://files.catbox.moe/zqlnkv.png "Evil")](https://youtu.be/ME4-lQOa88U?si=LK91-ozuxIIKbdUj)
   [![No One Can Find This "Creepy Dinosaur" Game...](https://files.catbox.moe/v8x5rd.png "No One Can Find This "Creepy Dinosaur" Game...")](https://www.youtube.com/watch?v=QxJZ7giOefs)
@@ -208,7 +210,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   [![Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke](https://files.catbox.moe/j58ace.png "Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke")](https://youtu.be/uk_3q6XAH1Q?si=x0w49GbVYDzWPv8o)
   [![squirrel stapler](https://files.catbox.moe/tldi9t.png "squirrel stapler")](https://youtu.be/iWG3KZSzqUY?si=3ySzXI14tgkdb8V5)
 -->
-  🤍🦨🖤 ${\texttt{last updated on 05/19/2025 :3c}}$ 🖤🦨🤍
+  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 06/15/2025 :3c}}}$ 🖤🦨🤍
 </div>
 
 [^1]:[https://rentry.co/shipmeaning]
