@@ -199,8 +199,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   <p>YAY you made it to the bottom! here's a couple of my fave songs/vids for your enjoyment :3c</p>
   <sup>will prob change these out once a month or so...</sup>
 
-  <a href="https://youtu.be/sdDpoQFre18?si=-hzkcFrXhhwdpbPp" title="Vinesauce Joel Animated - The Amogus Incident"><img src="https://files.catbox.moe/tw74rr.png" alt="Vinesauce Joel Animated - The Amogus Incident"></a>
-  <a href="https://www.youtube.com/watch?v=YfBVNpiTKJ8" title="Shut the Hell Up Ringo"><img src="https://files.catbox.moe/kai84n.png" alt="Shut the Hell Up Ringo"></a>
+  <a href="https://www.youtube.com/watch?v=5Bn6_izrPPw" title=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "><img src="https://files.catbox.moe/o1xg0h.png" alt=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "></a>
+  <a href="https://www.youtube.com/watch?v=bZTQTsswQWg" title="[Vinesauce] Vinny - WHY DID HE SAY THAT"><img src="https://files.catbox.moe/ddp4xp.png" alt="[Vinesauce] Vinny - WHY DID HE SAY THAT"></a>
 
 <!--
   <a href="https://youtu.be/KBzaZXbhIzc?si=MbiABOvI2JQu1V1B" title="Jackie's Box - Otamatone Cover"><img src="https://files.catbox.moe/mmcfgi.png" alt="Jackie's Box - Otamatone Cover"></a>
@@ -213,20 +213,30 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://www.youtube.com/watch?v=jJfgHa49GX0" title="Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest"><img src="https://files.catbox.moe/kcr5kn.png" alt="Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest"></a>
   <a href="https://youtu.be/uk_3q6XAH1Q?si=x0w49GbVYDzWPv8o" title="Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke"><img src="https://files.catbox.moe/j58ace.png" alt="Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke"></a>
   <a href="https://youtu.be/iWG3KZSzqUY?si=3ySzXI14tgkdb8V5" title="squirrel stapler"><img src="https://files.catbox.moe/tldi9t.png" alt="squirrel stapler"></a>
+  <a href="https://youtu.be/sdDpoQFre18?si=-hzkcFrXhhwdpbPp" title="Vinesauce Joel Animated - The Amogus Incident"><img src="https://files.catbox.moe/tw74rr.png" alt="Vinesauce Joel Animated - The Amogus Incident"></a>
+  <a href="https://www.youtube.com/watch?v=YfBVNpiTKJ8" title="Shut the Hell Up Ringo"><img src="https://files.catbox.moe/kai84n.png" alt="Shut the Hell Up Ringo"></a>
   <a href="" title=""><img src="" alt=""></a>
 -->
+
+  <a href="https://www.youtube.com/watch?v=v8I5vDewcZo&list=RDv8I5vDewcZo&start_radio=1" title="Dream A Little Dream Of Me - The Mamas & The Papas"><img width="100" src="https://files.catbox.moe/wtwhoa.png" alt="Dream A Little Dream Of Me - The Mamas & The Papas"></a>
+  <a href="https://www.youtube.com/watch?v=fg_68MBzpzQ" title="Hash Pipe - Weezer"><img width="100" src="https://files.catbox.moe/m2sufl.png" alt="Hash Pipe - Weezer"></a>
+  <a href="https://www.youtube.com/watch?v=yW5oTzftgjY&list=RDyW5oTzftgjY&start_radio=1" title="Tubthumping - Chumbawumba"><img width="100" src="https://files.catbox.moe/5eqwm4.png" alt="Tubthumping - Chumbawumba"></a>
+  <a href="https://www.youtube.com/watch?v=7EotPOafJ3A&list=RD7EotPOafJ3A&start_radio=1" title="Everywhere I Go - Hollywood Undead"><img width="100" src="https://files.catbox.moe/zil3sz.png" alt="Everywhere I Go - Hollywood Undead"></a>
+  <a href="https://youtu.be/c9EkjTk6EdA?si=yoMEzw6UoEN6OgSo" title="Ever Fallen In Love - Pete Yorn"><img width="100" src="https://files.catbox.moe/2fx2j7.png" alt="Ever Fallen In Love - Pete Yorn"></a>
+  <a href="https://www.youtube.com/watch?v=1g552MIDLzA" title="The Joker - Jason Manns ft. Jensen Ackles"><img width="100" src="https://files.catbox.moe/pb9qv8.png" alt="The Joker - Jason Manns ft. Jensen Ackles"></a>
+  <a href="https://www.youtube.com/watch?v=oadhHk2xs6c" title="Wicked Game - Chris Isaak"><img width="100" src="https://files.catbox.moe/xjv2t0.png" alt="Wicked Game - Chris Isaak"></a>
+  
+<!--
   <a href="https://www.youtube.com/watch?v=pJpyQohQ3RI" title="Bombshell Blonde - Owl City"><img width="100" src="https://files.catbox.moe/woogps.png" alt="Bombshell Blonde - Owl City"></a>
   <a href="https://www.youtube.com/watch?v=5EeTkF-SLxE" title="Temporary Secretary (2011 Remaster)"><img width="100" src="https://files.catbox.moe/qldb0l.png" alt="Temporary Secretary (2011 Remaster)"></a>
-  <a href="https://www.youtube.com/watch?v=MPUCEz-RCg0" title="ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero"><img width="100" src="https://files.catbox.moe/8d1edh.png" alt="ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero"></a>
+  <a href="https://www.youtube.com/watch?v=MPUCEz-RCg0" title="ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero"><img width="100" src="https://files.catbox.moe/8d1edh.png" alt="ChuChu Lovely   MuniMuni MuraMura PrinPrin Boron Nururu ReroRero"></a>
   <a href="https://www.youtube.com/watch?v=PSoOFn3wQV4" title="The Bangles - Eternal Flame (Official Video)"><img width="100" src="https://files.catbox.moe/ck8m5g.png" alt="The Bangles - Eternal Flame (Official Video)"></a>
   <a href="https://www.youtube.com/watch?v=Gw0YeT0nJ3A" title="Rilo Kiley - Portions For Foxes (Official Video)"><img width="100" src="https://files.catbox.moe/19c5pp.png" alt="Rilo Kiley - Portions For Foxes (Official Video)"></a>
   <a href="https://www.youtube.com/watch?v=_DboMAghWcA" title="Rise Against - Hero Of War (Official Video)"><img width="100" src="https://files.catbox.moe/s1x3as.png" alt="Rise Against - Hero Of War (Official Video)"></a>
   <a href="https://www.youtube.com/watch?v=ofwFr8o8p0Y" title="Brown Eyed Girls 'Abracadabra'"><img width="100" src="https://files.catbox.moe/qt6ies.png" alt="Brown Eyed Girls 'Abracadabra'"></a>
-
-<!--
-<a href="" title=""><img width="100" src="" alt=""></a>
+  <a href="" title=""><img width="100" src="" alt=""></a>
 -->
-  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 07/22/2025 :3c}}}$ 🖤🦨🤍
+  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 08/28/2025 :3c}}}$ 🖤🦨🤍
 </div>
 
 [^1]:[https://rentry.co/shipmeaning]
@@ -315,6 +325,6 @@ shhhhh secret sam winchester
 ░░░░░░░░░░░░░░░░░░            ░░          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒░░░░▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    ░░              ░░▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒
 ░░░░░░░░░░░░░░▒▒░░▒▒          ░░          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░▒▒░░░░░░░░▒▒▒▒░░    ░░░░            ░░░░▒▒▒▒░░░░▒▒▒▒░░▒▒░░▒▒▒▒
 ░░░░░░░░░░░░░░▒▒              ░░          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒░░░░░░░░░░░░░░▒▒░░░░░░░░░░▒▒░░░░░░    ░░░░░░        ░░░░░░▒▒▒▒░░▒▒░░▒▒▒▒▒▒▒▒▒▒▒▒
-
+tell no one of this (except me. tell me if you see this.)
 -->
 
