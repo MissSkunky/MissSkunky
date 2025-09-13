@@ -20,7 +20,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/cfi3wz.gif" alt="Guestbook"></a>
   <a href="https://rentry.co/missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/ak5liq.gif" alt="Rentry"></a>
  <br>
-  <a href="https://missskunkyart.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a>
+ <!-- replace below w <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a> -->
+  <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/ujviwy.gif" alt="Art Carrd"></a>
   <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/tr8akb.gif" alt="Letterboxd"></a>
   <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/qsu37q.gif" alt="Proship Carrd"></a>
   
@@ -51,6 +52,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   ✩ i have pretty bad anxiety, so if i dip or just don't talk to you, that's prob why :S
  
   ♥ if you talk to me about supernatural, there's a high chance i won't shut up
+
+  ✩ i don't mind anyone cuddling/hiding behind me! i just ask that you don't cover my whole pony <3
 *******
 
 <p align="center">${{\color{#8bdfe1}\Huge{\texttt{✿⊹₊ DNI ₊⊹✿}}}}$ </p>
@@ -199,8 +202,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   <p>YAY you made it to the bottom! here's a couple of my fave songs/vids for your enjoyment :3c</p>
   <sup>will prob change these out once a month or so...</sup>
 
-  <a href="https://www.youtube.com/watch?v=5Bn6_izrPPw" title=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "><img src="https://files.catbox.moe/o1xg0h.png" alt=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "></a>
-  <a href="https://www.youtube.com/watch?v=bZTQTsswQWg" title="[Vinesauce] Vinny - WHY DID HE SAY THAT"><img src="https://files.catbox.moe/ddp4xp.png" alt="[Vinesauce] Vinny - WHY DID HE SAY THAT"></a>
+  <a href="https://www.youtube.com/watch?v=EbxoDbcoZs4&amp;t=5090s" title="Do Not Use This File"><img src="https://files.catbox.moe/4bxdae.png" alt="Do Not Use This File"></a>
+  <a href="https://www.youtube.com/watch?v=MMdXZV41jM0" title="Supernatural 'Best of Series' Gag Reel"><img src="https://files.catbox.moe/19hk80.png" alt="Supernatural 'Best of Series' Gag Reel"></a>
 
 <!--
   <a href="https://youtu.be/KBzaZXbhIzc?si=MbiABOvI2JQu1V1B" title="Jackie's Box - Otamatone Cover"><img src="https://files.catbox.moe/mmcfgi.png" alt="Jackie's Box - Otamatone Cover"></a>
@@ -215,6 +218,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://youtu.be/iWG3KZSzqUY?si=3ySzXI14tgkdb8V5" title="squirrel stapler"><img src="https://files.catbox.moe/tldi9t.png" alt="squirrel stapler"></a>
   <a href="https://youtu.be/sdDpoQFre18?si=-hzkcFrXhhwdpbPp" title="Vinesauce Joel Animated - The Amogus Incident"><img src="https://files.catbox.moe/tw74rr.png" alt="Vinesauce Joel Animated - The Amogus Incident"></a>
   <a href="https://www.youtube.com/watch?v=YfBVNpiTKJ8" title="Shut the Hell Up Ringo"><img src="https://files.catbox.moe/kai84n.png" alt="Shut the Hell Up Ringo"></a>
+  <a href="https://www.youtube.com/watch?v=5Bn6_izrPPw" title=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "><img src="https://files.catbox.moe/o1xg0h.png" alt=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "></a>
+  <a href="https://www.youtube.com/watch?v=bZTQTsswQWg" title="[Vinesauce] Vinny - WHY DID HE SAY THAT"><img src="https://files.catbox.moe/ddp4xp.png" alt="[Vinesauce] Vinny - WHY DID HE SAY THAT"></a>
   <a href="" title=""><img src="" alt=""></a>
 -->
 
@@ -236,7 +241,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://www.youtube.com/watch?v=ofwFr8o8p0Y" title="Brown Eyed Girls 'Abracadabra'"><img width="100" src="https://files.catbox.moe/qt6ies.png" alt="Brown Eyed Girls 'Abracadabra'"></a>
   <a href="" title=""><img width="100" src="" alt=""></a>
 -->
-  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 08/28/2025 :3c}}}$ 🖤🦨🤍
+  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 09/13/2025 :3c}}}$ 🖤🦨🤍
 </div>
 
 [^1]:[https://rentry.co/shipmeaning]
