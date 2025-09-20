@@ -24,6 +24,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/ujviwy.gif" alt="Art Carrd"></a>
   <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/tr8akb.gif" alt="Letterboxd"></a>
   <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/qsu37q.gif" alt="Proship Carrd"></a>
+  <a href="https://en.pronouns.page/@missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/di8mjn.gif" alt="pronouns"></a>
   
   <a href="https://missskunky-graphics.neocities.org/" target="_blank"><img width="132" src="https://files.catbox.moe/kv2t3n.gif" alt="Graphics Site"></a>
 </div>
