@@ -16,7 +16,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://rentry.co/skunkyfaq"><img width="132" src="https://files.catbox.moe/jtpifj.gif" alt="FAQ"></a>
   
   <a href="https://missskunkyver2.straw.page/" target="_blank"><img width="132" src="https://files.catbox.moe/j602wy.gif" alt="Strawpage"></a>
-  <a href="https://ourworldoftext.com/skunkys_world" target="_blank"><img width="132" src="https://files.catbox.moe/6acbgf.gif" alt="Our World of Text"></a>
+  <a href="https://ourworldoftext.com/missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/6acbgf.gif" alt="Our World of Text"></a>
   <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/cfi3wz.gif" alt="Guestbook"></a>
   <a href="https://rentry.co/missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/ak5liq.gif" alt="Rentry"></a>
  <br>
