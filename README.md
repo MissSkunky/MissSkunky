@@ -46,13 +46,13 @@ you also need to have a blank line between the opening div and the counter :3c -
  
   ♥ <strong>i chill on the safe server bc the 18+ server makes me uncomfortable. ppl there are way too sexual, and too many antis have told me to kms in some real nasty ways, so! i'm not going back you can't      make me</strong>
  
-  ✩ i am ${{\color{#F00000}\Huge{\textsf{staunchly}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{proship, profiction, anti-harassment, and proud of it}}}}$ [^1] [^2] [^3], so if that bothers you. idk, leave. idk what to   tell you
+  ✩ i am ${{\color{#F00000}\Huge{\textsf{staunchly}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{proship, profiction, anti-harassment, and proud of it}}}}$ [^1] [^2] [^3], i'm also a ${{\color{#F00000}\Huge{\textsf{darkshipper}}}}$ (won't talk about it around ppl who aren't comfy w it, but i am one), so if that bothers you. idk, leave. idk what to   tell you
  
   ♥ i'm 24, bisexual, chronically online, and strugging to stay alive 🤙
  
   ✩ i have pretty bad anxiety, so if i dip or just don't talk to you, that's prob why :S
  
-  ♥ if you talk to me about supernatural, there's a high chance i won't shut up
+  ♥ if you talk to me about supernatural (ESP sammy), there's a high chance i won't shut up
 
   ✩ i don't mind anyone cuddling/hiding behind me! i just ask that you don't cover my whole pony <3
 *******
@@ -61,11 +61,11 @@ you also need to have a blank line between the opening div and the counter :3c -
 <p align="center"><sup> ${{\color{#8bdfe1}\small{\texttt{•*. but not really bc they don't work and i block liberally .*•}}}}$ </sup></p>
 
 *******
-  ⸙ hoffman stans and adam/lawrence fans (SAW). i hate hate hate hoffman and adam/lawrence is just Not For Me. 
+  ⸙ mean people. if you're just rude, or think it's funny to bully ppl bc they're "cringe", do not talk to me <3 
 
   𓋼 antis. obviously. we're just not gonna agree.
 
-  ⚘ tcc. cool with zero day fans and stuff, but if you genuinelly like dylan klebold, adam lanza, randy stair, etc., don't int w me please
+  ⚘ tcc. cool with zero day fans, and i'm okay with discussing it, but if you genuinely like dylan klebold, adam lanza, randy stair, etc., don't int w me please
 
   ↟ sam winchester haters, hellers, (some) castiel stans. i respect y'all but i'm so attached to sammy that it's bad for my mental health to int with you guys
 
@@ -83,7 +83,7 @@ you also need to have a blank line between the opening div and the counter :3c -
       <tr>
         <td><i>stardew valley</i></th>
         <td><i>pony town</i></th>
-        <td><b><i>fnaf sb</b></i></td>
+        <td><b><i>fnaf</b></i></td>
         <td>TCOAAL</td>
       </tr>
       <tr>
@@ -125,7 +125,7 @@ you also need to have a blank line between the opening div and the counter :3c -
       <tr>
         <td>american horror story</td>
         <td>family guy</td>
-        <td>spongebob</td>
+        <td><i>spongebob</i></td>
         <td>tawog</td>
       </tr>
       <tr>
@@ -148,7 +148,7 @@ you also need to have a blank line between the opening div and the counter :3c -
       </tr>
       <tr>
         <td><i>chicago</i></td>
-        <td>fall out boy</td>
+        <td><i>fall out boy</i></td>
         <td>green day</td>
         <td>three days grace</td>
       </tr>
@@ -156,11 +156,11 @@ you also need to have a blank line between the opening div and the counter :3c -
         <td>panic at the disco</td>
         <td>blink-182</td>
         <td>hollywood undead</td>
-        <td>chappell roan</td>
+        <td><b><i>radio company</i></b></td>
       </tr>
       <tr>
         <td><i>my chemical romance</i></td>
-        <td>kesha</td>
+        <td>evanescence</td>
         <td>joji</td>
         <td>symmetry icon ;)</td>
       </tr>
@@ -171,9 +171,9 @@ you also need to have a blank line between the opening div and the counter :3c -
     <summary>${\textsf{\color{#ff9b9b}☀︎ ﾟ⋆°·☁︎ OTHER ☁︎·°⋆ ﾟ☀︎}}$</summary>
     <table>
       <tr>
-        <td><i>creepcast/wendigoon/papa meat!</i></td>
+        <td><i>creepcast/wendigoon/papa meat</i></td>
         <td><i>markiplier</i></td>
-        <td>jeremiah 985</td>
+        <td><i>jeremiah 985</i></td>
         <td>car crash videos</td>
       </tr>
       <tr>
@@ -186,7 +186,7 @@ you also need to have a blank line between the opening div and the counter :3c -
         <td><i>astralspiff</i></td>
         <td>tapirs</td>
         <td>gene from the beatles</td>
-        <td>sammy</td>
+        <td>sammy<3</td>
       </tr>
       <tr>
         <td><b><i>wincest</i></b></td>
@@ -197,14 +197,46 @@ you also need to have a blank line between the opening div and the counter :3c -
     </table>
   </details>
 </div>
+          
+*******
+<p align="center">${{\color{#8bdfe1}\Huge{\texttt{✿⊹₊ BLINKIES/STAMPS/OTHER ₊⊹✿}}}}$ </p>
+<p align="center"><sup> ${{\color{#8bdfe1}\small{\texttt{•*. all made by me, free to use! .*•}}}}$ </sup></p>
+
+*******
+<div align="center">
+  <details>
+    <summary>${\textsf{\color{#ff9b9b}⊹₊˚‧ BLINKIES ‧˚₊⊹}}$</summary>
+    <img width="150" src="" alt="">
+  </details>
+
+  <details>
+    <summary>${\textsf{\color{#8bdfe1}⿴ □ ⬚ STAMPS ⬚ □ ⿴}}$</summary>
+    <a href="" title=""><img width="150" src="" alt=""></a>
+  </details>
+
+  <details>
+    <summary>${\textsf{\color{#ff9b9b}⋆˙⋆⟡ BADGES ⟡⋆˙⋆}}$</summary>
+  </details>
+
+  <details>
+    <summary>${\textsf{\color{#8bdfe1}⋆˚✴︎⋆BUTTONS ⋆✴︎˚⋆}}$</summary>
+  </details>
+</div>
+
+<!-- 
+blinkie - <a href="" title=""><img width="150" src="" alt=""></a> 
+stamp - <a href="" title=""><img width="99" src="" alt=""></a>
+badge - <a href="" title=""><img height="18" src="" alt=""></a>
+button - <a href="" title=""><img width="88" src="" alt=""></a>
+-->
 
 *******
 <div align="center">
   <p>YAY you made it to the bottom! here's a couple of my fave songs/vids for your enjoyment :3c</p>
   <sup>will prob change these out once a month or so...</sup>
 
-  <a href="https://www.youtube.com/watch?v=EbxoDbcoZs4&amp;t=5090s" title="Do Not Use This File"><img src="https://files.catbox.moe/4bxdae.png" alt="Do Not Use This File"></a>
-  <a href="https://www.youtube.com/watch?v=MMdXZV41jM0" title="Supernatural 'Best of Series' Gag Reel"><img src="https://files.catbox.moe/19hk80.png" alt="Supernatural 'Best of Series' Gag Reel"></a>
+  <a href="https://www.youtube.com/watch?v=hmJkKLCBb6A" title="ster making jerma uncomfortable for 16 more minutes"><img src="https://files.catbox.moe/x2k2c6.png" alt="ster making jerma uncomfortable for 16 more minutes"></a>
+  <a href="https://www.youtube.com/watch?v=m4pLRSPNhRA" title="Sam and Dean's best brotherly moments"><img src="https://files.catbox.moe/ray34h.png" alt="Sam and Dean's best brotherly moments"></a>
 
 <!--
   <a href="https://youtu.be/KBzaZXbhIzc?si=MbiABOvI2JQu1V1B" title="Jackie's Box - Otamatone Cover"><img src="https://files.catbox.moe/mmcfgi.png" alt="Jackie's Box - Otamatone Cover"></a>
@@ -221,16 +253,17 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://www.youtube.com/watch?v=YfBVNpiTKJ8" title="Shut the Hell Up Ringo"><img src="https://files.catbox.moe/kai84n.png" alt="Shut the Hell Up Ringo"></a>
   <a href="https://www.youtube.com/watch?v=5Bn6_izrPPw" title=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "><img src="https://files.catbox.moe/o1xg0h.png" alt=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "></a>
   <a href="https://www.youtube.com/watch?v=bZTQTsswQWg" title="[Vinesauce] Vinny - WHY DID HE SAY THAT"><img src="https://files.catbox.moe/ddp4xp.png" alt="[Vinesauce] Vinny - WHY DID HE SAY THAT"></a>
+  <a href="https://www.youtube.com/watch?v=EbxoDbcoZs4&amp;t=5090s" title="Do Not Use This File"><img src="https://files.catbox.moe/4bxdae.png" alt="Do Not Use This File"></a>
+  <a href="https://www.youtube.com/watch?v=MMdXZV41jM0" title="Supernatural 'Best of Series' Gag Reel"><img src="https://files.catbox.moe/19hk80.png" alt="Supernatural 'Best of Series' Gag Reel"></a>
   <a href="" title=""><img src="" alt=""></a>
 -->
 
-  <a href="https://www.youtube.com/watch?v=v8I5vDewcZo&list=RDv8I5vDewcZo&start_radio=1" title="Dream A Little Dream Of Me - The Mamas & The Papas"><img width="100" src="https://files.catbox.moe/wtwhoa.png" alt="Dream A Little Dream Of Me - The Mamas & The Papas"></a>
-  <a href="https://www.youtube.com/watch?v=fg_68MBzpzQ" title="Hash Pipe - Weezer"><img width="100" src="https://files.catbox.moe/m2sufl.png" alt="Hash Pipe - Weezer"></a>
-  <a href="https://www.youtube.com/watch?v=yW5oTzftgjY&list=RDyW5oTzftgjY&start_radio=1" title="Tubthumping - Chumbawumba"><img width="100" src="https://files.catbox.moe/5eqwm4.png" alt="Tubthumping - Chumbawumba"></a>
-  <a href="https://www.youtube.com/watch?v=7EotPOafJ3A&list=RD7EotPOafJ3A&start_radio=1" title="Everywhere I Go - Hollywood Undead"><img width="100" src="https://files.catbox.moe/zil3sz.png" alt="Everywhere I Go - Hollywood Undead"></a>
-  <a href="https://youtu.be/c9EkjTk6EdA?si=yoMEzw6UoEN6OgSo" title="Ever Fallen In Love - Pete Yorn"><img width="100" src="https://files.catbox.moe/2fx2j7.png" alt="Ever Fallen In Love - Pete Yorn"></a>
-  <a href="https://www.youtube.com/watch?v=1g552MIDLzA" title="The Joker - Jason Manns ft. Jensen Ackles"><img width="100" src="https://files.catbox.moe/pb9qv8.png" alt="The Joker - Jason Manns ft. Jensen Ackles"></a>
-  <a href="https://www.youtube.com/watch?v=oadhHk2xs6c" title="Wicked Game - Chris Isaak"><img width="100" src="https://files.catbox.moe/xjv2t0.png" alt="Wicked Game - Chris Isaak"></a>
+<a href="https://www.youtube.com/watch?v=5nNT8vCQUjg" title="Epilogue - The Antlers"><img width="100" src="https://files.catbox.moe/nozmc7.jpg" alt="Epilogue - The Antlers"></a>
+<a href="https://www.youtube.com/watch?v=GgvMhlNMHo4" title="Slow Motion - Third Eye Blind"><img width="100" src="https://files.catbox.moe/d5jcc9.jpg" alt="Slow Motion - Third Eye Blind"></a>
+<a href="https://www.youtube.com/watch?v=J6S_AUlvEHo" title="Amy - Green Day"><img width="100" src="https://files.catbox.moe/cu6cyt.jpg" alt="Amy - Green Day"></a>
+<a href="https://www.youtube.com/watch?v=SzK-LBtrjTM" title="Hungover - Kesha"><img width="100" src="https://files.catbox.moe/nsat0t.jpg" alt="Hungover - Kesha"></a>
+<a href="https://www.youtube.com/watch?v=HxssHjBQ1cg" title="Quarter To - Radio Company"><img width="100" src="https://files.catbox.moe/ba87bk.jpg" alt="Quarter To - Radio Company"></a>
+<a href="https://www.youtube.com/watch?v=lrE76cdsfYg" title="Goodbye - Secondhand Serenade"><img width="100" src="https://files.catbox.moe/frrt4w.jpg" alt="Goodbye - Secondhand Serenade"></a>
   
 <!--
   <a href="https://www.youtube.com/watch?v=pJpyQohQ3RI" title="Bombshell Blonde - Owl City"><img width="100" src="https://files.catbox.moe/woogps.png" alt="Bombshell Blonde - Owl City"></a>
@@ -240,9 +273,16 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://www.youtube.com/watch?v=Gw0YeT0nJ3A" title="Rilo Kiley - Portions For Foxes (Official Video)"><img width="100" src="https://files.catbox.moe/19c5pp.png" alt="Rilo Kiley - Portions For Foxes (Official Video)"></a>
   <a href="https://www.youtube.com/watch?v=_DboMAghWcA" title="Rise Against - Hero Of War (Official Video)"><img width="100" src="https://files.catbox.moe/s1x3as.png" alt="Rise Against - Hero Of War (Official Video)"></a>
   <a href="https://www.youtube.com/watch?v=ofwFr8o8p0Y" title="Brown Eyed Girls 'Abracadabra'"><img width="100" src="https://files.catbox.moe/qt6ies.png" alt="Brown Eyed Girls 'Abracadabra'"></a>
+  <a href="https://www.youtube.com/watch?v=v8I5vDewcZo&list=RDv8I5vDewcZo&start_radio=1" title="Dream A Little Dream Of Me - The Mamas & The Papas"><img width="100" src="https://files.catbox.moe/wtwhoa.png" alt="Dream A Little Dream Of Me - The Mamas & The Papas"></a>
+  <a href="https://www.youtube.com/watch?v=fg_68MBzpzQ" title="Hash Pipe - Weezer"><img width="100" src="https://files.catbox.moe/m2sufl.png" alt="Hash Pipe - Weezer"></a>
+  <a href="https://www.youtube.com/watch?v=yW5oTzftgjY&list=RDyW5oTzftgjY&start_radio=1" title="Tubthumping - Chumbawumba"><img width="100" src="https://files.catbox.moe/5eqwm4.png" alt="Tubthumping - Chumbawumba"></a>
+  <a href="https://www.youtube.com/watch?v=7EotPOafJ3A&list=RD7EotPOafJ3A&start_radio=1" title="Everywhere I Go - Hollywood Undead"><img width="100" src="https://files.catbox.moe/zil3sz.png" alt="Everywhere I Go - Hollywood Undead"></a>
+  <a href="https://youtu.be/c9EkjTk6EdA?si=yoMEzw6UoEN6OgSo" title="Ever Fallen In Love - Pete Yorn"><img width="100" src="https://files.catbox.moe/2fx2j7.png" alt="Ever Fallen In Love - Pete Yorn"></a>
+  <a href="https://www.youtube.com/watch?v=1g552MIDLzA" title="The Joker - Jason Manns ft. Jensen Ackles"><img width="100" src="https://files.catbox.moe/pb9qv8.png" alt="The Joker - Jason Manns ft. Jensen Ackles"></a>
+  <a href="https://www.youtube.com/watch?v=oadhHk2xs6c" title="Wicked Game - Chris Isaak"><img width="100" src="https://files.catbox.moe/xjv2t0.png" alt="Wicked Game - Chris Isaak"></a>
   <a href="" title=""><img width="100" src="" alt=""></a>
 -->
-  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 09/13/2025 :3c}}}$ 🖤🦨🤍
+  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 10/11/2025 :3c}}}$ 🖤🦨🤍
 </div>
 
 [^1]:[https://rentry.co/shipmeaning]
