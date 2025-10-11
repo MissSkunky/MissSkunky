@@ -204,22 +204,98 @@ you also need to have a blank line between the opening div and the counter :3c -
 
 *******
 <div align="center">
+          <!--  BLINKIES  -->
   <details>
     <summary>${\textsf{\color{#ff9b9b}⊹₊˚‧ BLINKIES ‧˚₊⊹}}$</summary>
-    <img width="150" src="" alt="">
+    <img width="150" src="https://files.catbox.moe/i67z5n.gif" alt="Kudos">
+    <img width="150" src="https://files.catbox.moe/jz0e7s.gif" alt="Anti-harassment">
+    <img width="150" src="https://files.catbox.moe/mbxfmg.gif" alt="shrimply irresistible">
+    <img width="150" src="https://files.catbox.moe/yyme48.gif" alt="Psychotically, irrationally, erotically codependent">
+    <img width="150" src="https://files.catbox.moe/asydjh.gif" alt="I'm a posse magnet">
+    <img width="150" src="https://files.catbox.moe/uz1f6a.gif" alt="ANTIS DNI">
+    <img width="150" src="https://files.catbox.moe/2kqn7z.gif" alt="I lost my shoe">
+    <img width="150" src="https://files.catbox.moe/bm1gxi.gif" alt="I think I'm adorable">
+    <img width="150" src="https://files.catbox.moe/30yxjp.gif" alt="ship and let ship">
+    <img width="150" src="https://files.catbox.moe/yyaqyi.gif" alt="They don't call it losecest">
+    <img width="150" src="https://files.catbox.moe/b6lmta.gif" alt="SAWtism">
+    <img width="150" src="https://files.catbox.moe/gjd9pa.gif" alt="darkshipper">
   </details>
-
+          <!--  STAMPS  -->
   <details>
     <summary>${\textsf{\color{#8bdfe1}⿴ □ ⬚ STAMPS ⬚ □ ⿴}}$</summary>
-    <a href="" title=""><img width="150" src="" alt=""></a>
+    <img width="99" src="https://files.catbox.moe/nw8pp5.gif" alt="Crowley and Rowena (SPN)">
+    <img width="99" src="https://files.catbox.moe/2874gw.png" alt="Akunin">
+    <img width="99" src="https://files.catbox.moe/ge9tbf.gif" alt="Dean Winchester (SPN)">
+    <img width="99" src="https://files.catbox.moe/frpiyk.png" alt="Killing Stalking">
+    <img width="99" src="https://files.catbox.moe/l31q2k.gif" alt="Sam and Dean Winchester (SPN)">
+    <img width="99" src="https://files.catbox.moe/w29fao.gif" alt="Sam Winchester (SPN)">
+    <img width="99" src="https://files.catbox.moe/gdbnbs.gif" alt="Crowley (SPN)">
+    <img width="99" src="https://files.catbox.moe/qr1v4b.png" alt="I want to be good and pure but i'm not i'm not i'm not">
+    <img width="99" src="https://files.catbox.moe/zhft1g.gif" alt="Dean Winchester (SPN)">
+    <img width="99" src="https://files.catbox.moe/mzwafh.gif" alt="Jared Padalecki and Jensen Ackles">
+    <img width="99" src="https://files.catbox.moe/cvy9o1.png" alt="Jared Padalecki">
+    <img width="99" src="https://files.catbox.moe/wczwyj.gif" alt="Jared Padalecki and Jensen Ackles">
+    <img width="99" src="https://files.catbox.moe/nbla0f.gif" alt="Jared Padalecki and Jensen Ackles">
+    <img width="99" src="https://files.catbox.moe/qovhls.gif" alt="Sam and Dean Winchester (SPN)">
+    <img width="99" src="https://files.catbox.moe/rc9y59.png" alt="Slammer Dogs">
+    <img width="99" src="https://files.catbox.moe/2w8915.gif" alt="Crowley and Rowena (SPN)">
+    <img width="99" src="https://files.catbox.moe/2w8915.gif" alt="Jared Padalecki, Jensen Ackles, and Misha Collins">
+    <img width="99" src="https://files.catbox.moe/qoyo5m.gif" alt="Sam and Dean Winchester (SPN)">
+    <img width="99" src="https://files.catbox.moe/bo66ho.gif" alt="Jared Padalecki">
+    <img width="99" src="https://files.catbox.moe/wbcpjg.png" alt="Dead or Alive">
+    <img width="99" src="https://files.catbox.moe/i689to.gif" alt="Jared Padalecki and Jensen Ackles">
+    <img width="99" src="https://files.catbox.moe/t6ye8s.gif" alt="Cordell Walker (Walker)">
+    <img width="99" src="https://files.catbox.moe/tpz1sr.png" alt="Shota Oni">
+    <img width="99" src="https://files.catbox.moe/txel6c.gif" alt="Jared Padalecki and Jensen Ackles">
+    <img width="99" src="https://files.catbox.moe/vmszfc.gif" alt="Jared Padalecki and Jensen Ackles">
+    <img width="99" src="https://files.catbox.moe/r9amzf.gif" alt="Sam Winchester and Jack Kline (SPN)">
+    <img width="99" src="https://files.catbox.moe/1dsfxl.gif" alt="Richard Speight Jr.">
+    <img width="99" src="https://files.catbox.moe/kf0qu0.gif" alt="Jared Padalecki">
+    <img width="99" src="https://files.catbox.moe/ggnvdd.gif" alt="Sam and Dean Winchester (SPN)">
+    <img width="99" src="https://files.catbox.moe/o70kal.gif" alt="Sam and Dean Winchester (SPN)">
+    <img width="99" src="https://files.catbox.moe/qdf83u.gif" alt="Sam Winchester, Jack Kline, and Castiel (SPN)">
+    <img width="99" src="https://files.catbox.moe/kbuwg4.gif" alt="go on, make it easy. say i never mattered">
+    <img width="99" src="https://files.catbox.moe/qeiq2n.png" alt="what have you become?">
+    <img width="99" src="https://files.catbox.moe/gg4f7s.gif" alt="Jared Padalecki and Jensen Ackles">
+    <img width="99" src="https://files.catbox.moe/6dh20p.gif" alt="Crowley (SPN)">
+    <img width="99" src="https://files.catbox.moe/twgc7k.gif" alt="Crowley (SPN)">
+    <img width="99" src="https://files.catbox.moe/2m0iaq.gif" alt="Jared Padalecki and Misha Collins">
+    <img width="99" src="https://files.catbox.moe/9a1qtp.gif" alt="Sam Winchester">
+    <img width="99" src="https://files.catbox.moe/bpj5ta.gif" alt="Jared Padalecki and Jensen Ackles">
+    <img width="99" src="https://files.catbox.moe/qnmk6d.gif" alt="Pro-ship">
+    <a href="https://www.youtube.com/clip/Ugkx2rRoyNfrQ2tB4yhaJCT0E6teuf6LM1t5" title="click on this stamp ;3c"><img width="99" src="https://files.catbox.moe/faqgv9.png" alt="click on this stamp ;3c"></a>
   </details>
-
+          <!--  BADGES  -->
   <details>
     <summary>${\textsf{\color{#ff9b9b}⋆˙⋆⟡ BADGES ⟡⋆˙⋆}}$</summary>
+    <img height="18" src="https://files.catbox.moe/bwgu1d.gif" alt="Crowley luvr">
+    <img height="18" src="https://files.catbox.moe/y318tr.gif" alt="Anti-anti">
+    <img height="18" src="https://files.catbox.moe/7pg9lo.gif" alt="Don't like? Don't read!">
+    <img height="18" src="https://files.catbox.moe/uqwr1c.gif" alt="Profic">
+    <img height="18" src="https://files.catbox.moe/2sgnsh.gif" alt="Incest is wincest">
+    <img height="18" src="https://files.catbox.moe/8ii427.gif" alt="Sammy luvr">
+    <img height="18" src="https://files.catbox.moe/o658e2.gif" alt="Wincest luvr">
+    <img height="18" src="https://files.catbox.moe/grmon9.gif" alt="Dean luvr">
+    <img height="18" src="https://files.catbox.moe/v7lvl0.gif" alt="Proship">
+    <img height="18" src="https://files.catbox.moe/mrlsbl.gif" alt="Jack luvr">
+    <img height="18" src="https://files.catbox.moe/xiec3q.gif" alt="Shotacon">
+    <img height="18" src="https://files.catbox.moe/w2oclh.gif" alt="Shota luvr">
+    <img height="18" src="https://files.catbox.moe/hi8h2x.gif" alt="Proshipper">
   </details>
-
+          <!--  BUTTONS  -->
   <details>
-    <summary>${\textsf{\color{#8bdfe1}⋆˚✴︎⋆BUTTONS ⋆✴︎˚⋆}}$</summary>
+    <summary>${\textsf{\color{#8bdfe1}⋆˚✴︎⋆ BUTTONS ⋆✴︎˚⋆}}$</summary>
+    <img width="88" src="https://files.catbox.moe/y9mk74.gif" alt="Kudos">
+    <img width="88" src="https://files.catbox.moe/147x63.gif" alt="Wincest NOW!">
+    <img width="88" src="https://files.catbox.moe/5pvobl.gif" alt="Jackles NOW!">
+    <img width="88" src="https://files.catbox.moe/y4ls29.gif" alt="Jarpad NOW!">
+    <img width="88" src="https://files.catbox.moe/rxwim4.gif" alt="Jensen Ackles">
+    <img width="88" src="https://files.catbox.moe/one1cb.gif" alt="Jared Padalecki">
+    <img width="88" src="https://files.catbox.moe/iouw3s.gif" alt="Supernatural">
+    <img width="88" src="https://files.catbox.moe/rvupkm.png" alt="S.W. D.W.">
+    <img width="88" src="https://files.catbox.moe/nu8fz2.png" alt="Kansas license plate">
+    <img width="88" src="https://files.catbox.moe/vmbfi2.gif" alt="Supernatural">
+    <img width="88" src="https://files.catbox.moe/c1k9fg.gif" alt="Shotas NOW!">
   </details>
 </div>
 
