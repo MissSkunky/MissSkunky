@@ -5,7 +5,7 @@
   <a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a>
 </div> 
 
-<!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username= YOUR USER e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the spaces!  
+<!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username=[YOURUSER]e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the brackets!  
 you also need to have a blank line between the opening div and the counter :3c -->
 <div align="center">
 
@@ -20,8 +20,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/cfi3wz.gif" alt="Guestbook"></a>
   <a href="https://rentry.co/missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/ak5liq.gif" alt="Rentry"></a>
  <br>
- <!-- replace below w <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a> -->
-  <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/ujviwy.gif" alt="Art Carrd"></a>
+  <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/t5g6zd.gif" alt="Art Carrd"></a>
   <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/tr8akb.gif" alt="Letterboxd"></a>
   <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/qsu37q.gif" alt="Proship Carrd"></a>
   <a href="https://en.pronouns.page/@missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/di8mjn.gif" alt="pronouns"></a>
@@ -46,7 +45,7 @@ you also need to have a blank line between the opening div and the counter :3c -
  
   ♥ <strong>i chill on the safe server bc the 18+ server makes me uncomfortable. ppl there are way too sexual, and too many antis have told me to kms in some real nasty ways, so! i'm not going back you can't      make me</strong>
  
-  ✩ i am ${{\color{#F00000}\Huge{\textsf{staunchly}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{proship, profiction, anti-harassment, and proud of it}}}}$ [^1] [^2] [^3], i'm also a ${{\color{#F00000}\Huge{\textsf{darkshipper}}}}$ (won't talk about it around ppl who aren't comfy w it, but i am one), so if that bothers you. idk, leave. idk what to   tell you
+  ✩ i am ${{\color{#F00000}\Huge{\textsf{staunchly}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{proship,}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{profiction,}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{anti-harassment,}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{and proud of it}}}}$ <a href="https://rentry.co/shipmeaning">[1]</a> <a href="https://define-proship.carrd.co/">[2]</a> <a href="https://proshipresourcesaccessible.carrd.co/">[3]</a>, i'm also a ${{\color{#F00000}\Huge{\textsf{darkshipper}}}}$ (won't talk about it around ppl who aren't comfy w it, but i am one), so if that bothers you. idk, leave. idk what to   tell you
  
   ♥ i'm 24, bisexual, chronically online, and strugging to stay alive 🤙
  
@@ -67,7 +66,7 @@ you also need to have a blank line between the opening div and the counter :3c -
 
   ⚘ tcc. cool with zero day fans, and i'm okay with discussing it, but if you genuinely like dylan klebold, adam lanza, randy stair, etc., don't int w me please
 
-  ↟ sam winchester haters, hellers, (some) castiel stans. i respect y'all but i'm so attached to sammy that it's bad for my mental health to int with you guys
+  ↟ sam winchester haters, destiel fans/hellers, (some) castiel stans. i respect that y'all like what you like, but i don't like the same things. (i also just Don't Like cas or misha)
 
   ☘︎ minors are on thin ice. you can interact, i'll be nice, but i'm not tryna be besties with a child, ya dig
 *******
@@ -310,61 +309,20 @@ button - <a href="" title=""><img width="88" src="" alt=""></a>
 <div align="center">
   <p>YAY you made it to the bottom! here's a couple of my fave songs/vids for your enjoyment :3c</p>
   <sup>will prob change these out once a month or so...</sup>
+  <a href="www.youtube.com/watch?v=8_gg5NNPen0" title="The Strange Thing About the Johnsons"><img src="https://files.catbox.moe/3tcoza.png" alt="The Strange Thing About the Johnsons"></a>
+  <a href="https://www.youtube.com/watch?v=icJ6oLKCwKs" title="Wheatley Crab"><img src="https://files.catbox.moe/k8txab.png" alt="Wheatley Crab"></a>
 
-  <a href="https://www.youtube.com/watch?v=hmJkKLCBb6A" title="ster making jerma uncomfortable for 16 more minutes"><img src="https://files.catbox.moe/x2k2c6.png" alt="ster making jerma uncomfortable for 16 more minutes"></a>
-  <a href="https://www.youtube.com/watch?v=m4pLRSPNhRA" title="Sam and Dean's best brotherly moments"><img src="https://files.catbox.moe/ray34h.png" alt="Sam and Dean's best brotherly moments"></a>
+<a href="https://www.youtube.com/watch?v=fF0K12UiSKU" title="The World Spins - Julee Cruise"><img width="100" src="https://files.catbox.moe/jwwadg.jpg" alt="The World Spins - Julee Cruise">
+<a href="https://www.youtube.com/watch?v=wlZqSCrNmtg" title="Eternal Flame - The Bangles"><img width="100" src="https://files.catbox.moe/g0emti.jpg" alt="Eternal Flame - The Bangles">
+<a href="https://www.youtube.com/watch?v=9ej11jKHK8g" title="All Our Own - Radio Company"><img width="100" src="https://files.catbox.moe/iybz1g.jpg" alt="All Our Own - Radio Company">
+<a href="https://www.youtube.com/watch?v=VaBPY78D88g" title="She's Leaving Home - The Beatles"><img width="100" src="https://files.catbox.moe/0y0etx.jpg" alt="She's Leaving Home - The Beatles">
+<a href="https://www.youtube.com/watch?v=HqBFiHJbcow" title="Need You Tonight - INXS"><img width="100" src="https://files.catbox.moe/efp13b.jpg" alt="Need You Tonight - INXS">
+<a href="https://www.youtube.com/watch?v=rLYtecBVHrs" title="Just Be Friends - Dixie Flatline"><img width="100" src="https://files.catbox.moe/swa51w.jpg" alt="Just Be Friends - Dixie Flatline">
+<a href="https://www.youtube.com/watch?v=ZWpvMm27WIM" title="John Wayne Gacy, Jr. - Sufjan Stevens"><img width="100" src="https://files.catbox.moe/xerdtr.jpg" alt="John Wayne Gacy, Jr. - Sufjan Stevens">
 
-<!--
-  <a href="https://youtu.be/KBzaZXbhIzc?si=MbiABOvI2JQu1V1B" title="Jackie's Box - Otamatone Cover"><img src="https://files.catbox.moe/mmcfgi.png" alt="Jackie's Box - Otamatone Cover"></a>
-  <a href="https://youtu.be/9wJI0JaFXps?si=4skbttu9VxCgFP-Z" title="Trying To Find My Worst Fears (feat. Wendigoon)"><img src="https://files.catbox.moe/lsmoc1.png" alt="Trying To Find My Worst Fears (feat. Wendigoon)"></a>
-  <a href="https://youtu.be/ESOyXKytHr4?si=oeewU7HBN15gZCaU" title="FF Debates 2011: Elijah Wood Challenges Dominic Monaghan"><img src="https://files.catbox.moe/f05v0o.png" alt="FF Debates 2011: Elijah Wood Challenges Dominic Monaghan"></a>
-  <a href="https://youtu.be/ESOyXKytHr4?si=oeewU7HBN15gZCaU" title="buddy holly bitcrushed nightcore"><img src="https://files.catbox.moe/7767nr.png" alt="buddy holly bitcrushed nightcore"></a>
-  <a href="https://youtu.be/m--6ifZXy5k?si=MWL1qRvlxw7srsXv" title="THE VIDEO ENDS WHEN I SOIL MYSELF"><img src="https://files.catbox.moe/0ajaga.png" alt="THE VIDEO ENDS WHEN I SOIL MYSELF"></a>
-  <a href="https://youtu.be/ME4-lQOa88U?si=LK91-ozuxIIKbdUj" title="Evil"><img src="https://files.catbox.moe/zqlnkv.png" alt="Evil"></a>
-  <a href="https://www.youtube.com/watch?v=QxJZ7giOefs" title="No One Can Find This "Creepy Dinosaur" Game..."><img src="https://files.catbox.moe/v8x5rd.png" alt="No One Can Find This "Creepy Dinosaur" Game..."></a>
-  <a href="https://www.youtube.com/watch?v=jJfgHa49GX0" title="Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest"><img src="https://files.catbox.moe/kcr5kn.png" alt="Defunctland: The History of the Worst SeaWorld Ride, Submarine Quest"></a>
-  <a href="https://youtu.be/uk_3q6XAH1Q?si=x0w49GbVYDzWPv8o" title="Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke"><img src="https://files.catbox.moe/j58ace.png" alt="Cemetary Drive (Sigma Wolf Version) | My Chemical Romance Karaoke"></a>
-  <a href="https://youtu.be/iWG3KZSzqUY?si=3ySzXI14tgkdb8V5" title="squirrel stapler"><img src="https://files.catbox.moe/tldi9t.png" alt="squirrel stapler"></a>
-  <a href="https://youtu.be/sdDpoQFre18?si=-hzkcFrXhhwdpbPp" title="Vinesauce Joel Animated - The Amogus Incident"><img src="https://files.catbox.moe/tw74rr.png" alt="Vinesauce Joel Animated - The Amogus Incident"></a>
-  <a href="https://www.youtube.com/watch?v=YfBVNpiTKJ8" title="Shut the Hell Up Ringo"><img src="https://files.catbox.moe/kai84n.png" alt="Shut the Hell Up Ringo"></a>
-  <a href="https://www.youtube.com/watch?v=5Bn6_izrPPw" title=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "><img src="https://files.catbox.moe/o1xg0h.png" alt=" The Little Mermaid - Under the Sea Adventure: A Virtual Ride Inspired by Disney Imagineers "></a>
-  <a href="https://www.youtube.com/watch?v=bZTQTsswQWg" title="[Vinesauce] Vinny - WHY DID HE SAY THAT"><img src="https://files.catbox.moe/ddp4xp.png" alt="[Vinesauce] Vinny - WHY DID HE SAY THAT"></a>
-  <a href="https://www.youtube.com/watch?v=EbxoDbcoZs4&amp;t=5090s" title="Do Not Use This File"><img src="https://files.catbox.moe/4bxdae.png" alt="Do Not Use This File"></a>
-  <a href="https://www.youtube.com/watch?v=MMdXZV41jM0" title="Supernatural 'Best of Series' Gag Reel"><img src="https://files.catbox.moe/19hk80.png" alt="Supernatural 'Best of Series' Gag Reel"></a>
-  <a href="" title=""><img src="" alt=""></a>
--->
 
-<a href="https://www.youtube.com/watch?v=5nNT8vCQUjg" title="Epilogue - The Antlers"><img width="100" src="https://files.catbox.moe/nozmc7.jpg" alt="Epilogue - The Antlers"></a>
-<a href="https://www.youtube.com/watch?v=GgvMhlNMHo4" title="Slow Motion - Third Eye Blind"><img width="100" src="https://files.catbox.moe/d5jcc9.jpg" alt="Slow Motion - Third Eye Blind"></a>
-<a href="https://www.youtube.com/watch?v=J6S_AUlvEHo" title="Amy - Green Day"><img width="100" src="https://files.catbox.moe/cu6cyt.jpg" alt="Amy - Green Day"></a>
-<a href="https://www.youtube.com/watch?v=SzK-LBtrjTM" title="Hungover - Kesha"><img width="100" src="https://files.catbox.moe/nsat0t.jpg" alt="Hungover - Kesha"></a>
-<a href="https://www.youtube.com/watch?v=HxssHjBQ1cg" title="Quarter To - Radio Company"><img width="100" src="https://files.catbox.moe/ba87bk.jpg" alt="Quarter To - Radio Company"></a>
-<a href="https://www.youtube.com/watch?v=lrE76cdsfYg" title="Goodbye - Secondhand Serenade"><img width="100" src="https://files.catbox.moe/frrt4w.jpg" alt="Goodbye - Secondhand Serenade"></a>
-  
-<!--
-  <a href="https://www.youtube.com/watch?v=pJpyQohQ3RI" title="Bombshell Blonde - Owl City"><img width="100" src="https://files.catbox.moe/woogps.png" alt="Bombshell Blonde - Owl City"></a>
-  <a href="https://www.youtube.com/watch?v=5EeTkF-SLxE" title="Temporary Secretary (2011 Remaster)"><img width="100" src="https://files.catbox.moe/qldb0l.png" alt="Temporary Secretary (2011 Remaster)"></a>
-  <a href="https://www.youtube.com/watch?v=MPUCEz-RCg0" title="ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero"><img width="100" src="https://files.catbox.moe/8d1edh.png" alt="ChuChu Lovely   MuniMuni MuraMura PrinPrin Boron Nururu ReroRero"></a>
-  <a href="https://www.youtube.com/watch?v=PSoOFn3wQV4" title="The Bangles - Eternal Flame (Official Video)"><img width="100" src="https://files.catbox.moe/ck8m5g.png" alt="The Bangles - Eternal Flame (Official Video)"></a>
-  <a href="https://www.youtube.com/watch?v=Gw0YeT0nJ3A" title="Rilo Kiley - Portions For Foxes (Official Video)"><img width="100" src="https://files.catbox.moe/19c5pp.png" alt="Rilo Kiley - Portions For Foxes (Official Video)"></a>
-  <a href="https://www.youtube.com/watch?v=_DboMAghWcA" title="Rise Against - Hero Of War (Official Video)"><img width="100" src="https://files.catbox.moe/s1x3as.png" alt="Rise Against - Hero Of War (Official Video)"></a>
-  <a href="https://www.youtube.com/watch?v=ofwFr8o8p0Y" title="Brown Eyed Girls 'Abracadabra'"><img width="100" src="https://files.catbox.moe/qt6ies.png" alt="Brown Eyed Girls 'Abracadabra'"></a>
-  <a href="https://www.youtube.com/watch?v=v8I5vDewcZo&list=RDv8I5vDewcZo&start_radio=1" title="Dream A Little Dream Of Me - The Mamas & The Papas"><img width="100" src="https://files.catbox.moe/wtwhoa.png" alt="Dream A Little Dream Of Me - The Mamas & The Papas"></a>
-  <a href="https://www.youtube.com/watch?v=fg_68MBzpzQ" title="Hash Pipe - Weezer"><img width="100" src="https://files.catbox.moe/m2sufl.png" alt="Hash Pipe - Weezer"></a>
-  <a href="https://www.youtube.com/watch?v=yW5oTzftgjY&list=RDyW5oTzftgjY&start_radio=1" title="Tubthumping - Chumbawumba"><img width="100" src="https://files.catbox.moe/5eqwm4.png" alt="Tubthumping - Chumbawumba"></a>
-  <a href="https://www.youtube.com/watch?v=7EotPOafJ3A&list=RD7EotPOafJ3A&start_radio=1" title="Everywhere I Go - Hollywood Undead"><img width="100" src="https://files.catbox.moe/zil3sz.png" alt="Everywhere I Go - Hollywood Undead"></a>
-  <a href="https://youtu.be/c9EkjTk6EdA?si=yoMEzw6UoEN6OgSo" title="Ever Fallen In Love - Pete Yorn"><img width="100" src="https://files.catbox.moe/2fx2j7.png" alt="Ever Fallen In Love - Pete Yorn"></a>
-  <a href="https://www.youtube.com/watch?v=1g552MIDLzA" title="The Joker - Jason Manns ft. Jensen Ackles"><img width="100" src="https://files.catbox.moe/pb9qv8.png" alt="The Joker - Jason Manns ft. Jensen Ackles"></a>
-  <a href="https://www.youtube.com/watch?v=oadhHk2xs6c" title="Wicked Game - Chris Isaak"><img width="100" src="https://files.catbox.moe/xjv2t0.png" alt="Wicked Game - Chris Isaak"></a>
-  <a href="" title=""><img width="100" src="" alt=""></a>
--->
-  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 10/11/2025 :3c}}}$ 🖤🦨🤍
+  🤍🦨🖤 ${{\color{#ff9b9b}\texttt{last updated on 11/03/2025 :3c}}}$ 🖤🦨🤍
 </div>
-
-[^1]:[https://rentry.co/shipmeaning]
-[^2]:[https://define-proship.carrd.co/]
-[^3]:[https://proshipresourcesaccessible.carrd.co/]
-
 <!--
 shhhhh secret sam winchester
 ░░░░  ░░  ░░  ░░░░  ░░░░░░░░░░░░░░  ░░  ░░  ░░  ░░            ░░      ░░  ░░    ░░░░    ▒▒░░▒▒                ░░  ░░░░  ░░░░░░░░    ░░  ░░░░░░░░░░░░░░░░░░░░  ░░
