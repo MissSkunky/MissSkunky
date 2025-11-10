@@ -310,7 +310,7 @@ button - <a href="" title=""><img width="88" src="" alt=""></a>
   <p>YAY you made it to the bottom! here's a couple of my fave songs/vids for your enjoyment :3c</p>
   <sup>will prob change these out once a month or so...</sup>
   
-  <a href="www.youtube.com/watch?v=8_gg5NNPen0" title="The Strange Thing About the Johnsons"><img src="https://files.catbox.moe/3tcoza.png" alt="The Strange Thing About the Johnsons"></a>
+  <a href="https://www.youtube.com/watch?v=8_gg5NNPen0" title="The Strange Thing About the Johnsons"><img src="https://files.catbox.moe/3tcoza.png" alt="The Strange Thing About the Johnsons"></a>
   <a href="https://www.youtube.com/watch?v=icJ6oLKCwKs" title="Wheatley Crab"><img src="https://files.catbox.moe/k8txab.png" alt="Wheatley Crab"></a>
 
 <a href="https://www.youtube.com/watch?v=fF0K12UiSKU" title="The World Spins - Julee Cruise"><img width="100" src="https://files.catbox.moe/jwwadg.jpg" alt="The World Spins - Julee Cruise">
