@@ -3,7 +3,7 @@
 
 <div align="center">
   <!--<a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a> -->
-  <a href="https://files.catbox.moe/q9vuth.gif" target="_blank"><img width="1000" src="https://files.catbox.moe/y4b1ey.gif" alt="Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester standing in the dark, in front of a window, turning to look towards the camera"></a>
+  <a href="https://files.catbox.moe/q9vuth.gif" target="_blank"><img width="700" src="https://files.catbox.moe/y4b1ey.gif" alt="Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester standing in the dark, in front of a window, turning to look towards the camera"></a>
 </div> 
 
 <!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username=[YOURUSER]e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the brackets!  
