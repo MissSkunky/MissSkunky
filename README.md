@@ -19,7 +19,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   <a href="https://missskunkyver2.straw.page/" target="_blank"><img width="132" src="https://files.catbox.moe/8recf2.gif" alt="Strawpage"></a>
   <a href="https://ourworldoftext.com/missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/r4vof1.gif" alt="Our World of Text"></a>
   <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/4njzk5.gif" alt="Guestbook"></a>
-  <a href="https://rentry.co/padalecki" target="_blank"><img width="132" src="https://files.catbox.moe/s3xeb3.gif" alt="Rentry"></a>
+  <a href="https://rentry.co/raisedfromperdition" target="_blank"><img width="132" src="https://files.catbox.moe/s3xeb3.gif" alt="Rentry"></a>
  <br>
   <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/61jm2v.gif" alt="Art Carrd"></a>
   <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/qk05lu.gif" alt="Letterboxd"></a>
