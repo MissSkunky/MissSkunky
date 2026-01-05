@@ -1,33 +1,32 @@
 <!--don't look at this it's a mess bc i'm too used to HTML and CSS </3-->
-<p align="center">🌈🍖 ${{\color{#62e562}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ 🍖🌈</p>
+<p align="center"><img width="16" src="https://files.catbox.moe/ou9hii.png"><img width="16" src="https://files.catbox.moe/7xfvrr.png"> ${{\color{#eddcaa}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ <img width="16" src="https://files.catbox.moe/614rsa.png"><img width="16" src="https://files.catbox.moe/4cd4iz.png"></p>
 
 <div align="center">
   <!--<a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a> -->
-  <a href="https://imgur.com/a/4sb0Hh7" target="_blank"><img width="700" src="https://files.catbox.moe/g7a4px.gif" alt="Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester standing in the dark, in front of a window, turning to look towards the camera"></a>
+  <a href="https://imgur.com/a/4sb0Hh7" target="_blank"><img width="700" src="https://files.catbox.moe/6eijhb.gif" alt="Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester standing in the dark, in front of a window, turning to look towards the camera"></a>
 </div> 
 
 <!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username=[YOURUSER]e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the brackets!  
 you also need to have a blank line between the opening div and the counter :3c -->
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=e94e4e)
+  ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=a37b47)
 </div>
 
 <div align="center">
-  <a href="https://rentry.co/skunkyfaq"><img width="132" src="https://files.catbox.moe/zeekhq.gif" alt="FAQ"></a>
-  <a href="https://colormytree.me/2025/01JE78N1YB4Y2TSF2H7GSD7GSA"><img width="132" src="https://files.catbox.moe/7ir7c7.gif" alt="Colour My Tree"></a>
+  <a href="https://rentry.co/skunkyfaq"><img width="132" src="https://files.catbox.moe/i4q330.gif" alt="FAQ"></a>
   
-  <a href="https://missskunkyver2.straw.page/" target="_blank"><img width="132" src="https://files.catbox.moe/o9os53.gif" alt="Strawpage"></a>
-  <a href="https://ourworldoftext.com/missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/xbf15j.gif" alt="Our World of Text"></a>
-  <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/wcoqu3.gif" alt="Guestbook"></a>
-  <a href="https://rentry.co/missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/wud311.gif" alt="Rentry"></a>
+  <a href="https://missskunkyver2.straw.page/" target="_blank"><img width="132" src="https://files.catbox.moe/8recf2.gif" alt="Strawpage"></a>
+  <a href="https://ourworldoftext.com/missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/r4vof1.gif" alt="Our World of Text"></a>
+  <a href="https://users3.smartgb.com/g/g.php?a=s&amp;i=g36-36309-7f" target="_blank"><img width="132" src="https://files.catbox.moe/4njzk5.gif" alt="Guestbook"></a>
+  <a href="https://rentry.co/padalecki" target="_blank"><img width="132" src="https://files.catbox.moe/s3xeb3.gif" alt="Rentry"></a>
  <br>
-  <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/k13tqx.gif" alt="Art Carrd"></a>
-  <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/sb6ll8.gif" alt="Letterboxd"></a>
-  <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/q740lg.gif" alt="Proship Carrd"></a>
-  <a href="https://en.pronouns.page/@missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/tqjv26.gif" alt="pronouns"></a>
+  <a href="https://missskunkyart.crd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/61jm2v.gif" alt="Art Carrd"></a>
+  <a href="https://letterboxd.com/Skunk314/" target="_blank"><img width="132" src="https://files.catbox.moe/qk05lu.gif" alt="Letterboxd"></a>
+  <a href="https://proshipresourcesaccessible.carrd.co/" target="_blank"><img width="132" src="https://files.catbox.moe/4vl6nc.gif" alt="Proship Carrd"></a>
+  <a href="https://en.pronouns.page/@missskunky" target="_blank"><img width="132" src="https://files.catbox.moe/xpcs2l.gif" alt="pronouns"></a>
   
-  <a href="https://missskunky-graphics.neocities.org/" target="_blank"><img width="132" src="https://files.catbox.moe/kv2t3n.gif" alt="Graphics Site"></a>
+  <a href="https://missskunky-graphics.neocities.org/" target="_blank"><img width="132" src="https://files.catbox.moe/oqr8qi.gif" alt="Graphics Site"></a>
 </div>
 
 <!--for the spotify one, you need to go to https://github.com/kittinan/spotify-github-profile and follow the steps!
@@ -35,19 +34,19 @@ you also need to have a blank line between the opening div and the counter :3c -
     for the last.fm one, you need to go to https://github.com/JeffreyCA/lastfm-recently-played-readme and do the same :3c-->
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=default&show_offline=true&background_color=b19aa2&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
-  [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=missskunky&count=7&show_user=always&header_style=compact_stats_only&bg_color=b19aa2&width=320)](https://www.last.fm/user/missskunky)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&cover_image=true&theme=default&show_offline=true&background_color=9db496&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12136013103&redirect=true)
+  [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=missskunky&count=7&show_user=always&header_style=compact_stats_only&bg_color=9db496&width=320)](https://www.last.fm/user/missskunky)
 </div>
 
 *******
-<p align="center">${{\color{#e94e4e}\Huge{\texttt{˚✩°｡⋆ QUICK BYI/FAQ ⋆｡°✩˚}}}}$</h2>
+<p align="center">${{\color{#8fafbe}\Huge{\texttt{˚✩°｡⋆ QUICK BYI/FAQ ⋆｡°✩˚}}}}$</h2>
 
 *******
   ✩ check out <a href="https://github.com/Michael-Afton1983">my sibling next to me!</a> or i'll Get You
  
   ♥ <strong>i chill on the safe server bc the 18+ server makes me uncomfortable. ppl there are way too sexual, and too many antis have told me to kms in some real nasty ways, so! i'm not going back you can't      make me</strong>
  
-  ✩ i am ${{\color{#F00000}\Huge{\textsf{staunchly}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{proship,}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{profiction,}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{anti-harassment,}}}}$ ${{\color{#ff9b9b}\Huge{\textsf{and proud of it}}}}$ <a href="https://rentry.co/shipmeaning">[1]</a> <a href="https://define-proship.carrd.co/">[2]</a> <a href="https://proshipresourcesaccessible.carrd.co/">[3]</a>, i'm also a ${{\color{#F00000}\Huge{\textsf{darkshipper}}}}$ (won't talk about it around ppl who aren't comfy w it, but i am one), so if that bothers you. idk, leave. idk what to   tell you
+  ✩ i am ${{\color{#9db496}\Huge{\textsf{staunchly}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{proship,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{profiction,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{anti-harassment,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{and proud of it}}}}$ <a href="https://rentry.co/shipmeaning">[1]</a> <a href="https://define-proship.carrd.co/">[2]</a> <a href="https://proshipresourcesaccessible.carrd.co/">[3]</a>, i'm also a ${{\color{#9db496}\Huge{\textsf{darkshipper}}}}$ (won't talk about it around ppl who aren't comfy w it, but i am one), so if that bothers you. idk, leave. idk what to tell you
  
   ♥ i'm 24, bisexual, chronically online, and strugging to stay alive 🤙
  
@@ -58,8 +57,8 @@ you also need to have a blank line between the opening div and the counter :3c -
   ✩ i don't mind anyone cuddling/hiding behind me! i just ask that you don't cover my whole pony <3
 *******
 
-<p align="center">${{\color{#62e562}\Huge{\texttt{✿⊹₊ DNI ₊⊹✿}}}}$ </p>
-<p align="center"><sup> ${{\color{#62e562}\small{\texttt{•*. but not really bc they don't work and i block liberally .*•}}}}$ </sup></p>
+<p align="center">${{\color{#eddcaa}\Huge{\texttt{✿⊹₊ DNI ₊⊹✿}}}}$ </p>
+<p align="center"><sup> ${{\color{#eddcaa}\small{\texttt{•*. but not really bc they don't work and i block liberally .*•}}}}$ </sup></p>
 
 *******
   ⸙ mean people. if you're just rude, or think it's funny to bully ppl bc they're "cringe", do not talk to me <3 
@@ -72,14 +71,14 @@ you also need to have a blank line between the opening div and the counter :3c -
 
   ☘︎ minors are on thin ice. you can interact, i'll be nice, but i'm not tryna be besties with a child, ya dig
 *******
-<p align="center">${{\color{#e94e4e}\Huge{\texttt{˚✩°｡⋆ INTERESTS ⋆｡°✩˚}}}}$ </p>
-<p align="center"><sup> ${{\color{#e94e4e}\small{\texttt{•*. (italic are heavy likes, bold + italic are hyperfixations) .*•}}}}$ </sup></p>
+<p align="center">${{\color{#8fafbe}\Huge{\texttt{˚✩°｡⋆ INTERESTS ⋆｡°✩˚}}}}$ </p>
+<p align="center"><sup> ${{\color{#8fafbe}\small{\texttt{•*. (italic are heavy likes, bold + italic are hyperfixations) .*•}}}}$ </sup></p>
 
 *******
 <div align="center">  
           <!--  GAMES  -->  
   <details>
-    <summary>${\textsf{\color{#62e562}▀▄▀▄ GAMES ▄▀▄▀}}$</summary>
+    <summary>${\textsf{\color{#eddcaa}▀▄▀▄ GAMES ▄▀▄▀}}$</summary>
     <table>
       <tr>
         <td><i>stardew valley</i></th>
@@ -109,7 +108,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   </details>
           <!--  MOVIES  -->
   <details>
-    <summary>${\textsf{\color{#e94e4e}↻◁ || TV/MOVIES || ▷↺}}$</summary>
+    <summary>${\textsf{\color{#8fafbe}↻◁ || TV/MOVIES || ▷↺}}$</summary>
     <table>
       <tr>
         <td><b><i>MCU</i></b></td>
@@ -140,7 +139,7 @@ you also need to have a blank line between the opening div and the counter :3c -
           <!--  MUSIC  -->
   <details>
     <table>
-      <summary>${\textsf{\color{#62e562}♩ ♪ ♫ 𝄞 MUSIC 𝄞 ♫ ♪ ♩}}$</summary>
+      <summary>${\textsf{\color{#eddcaa}♩ ♪ ♫ 𝄞 MUSIC 𝄞 ♫ ♪ ♩}}$</summary>
       <tr>
         <td><b><i>heathers</i></b></td>
         <td><i>ride the cyclone</i></td>
@@ -169,7 +168,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   </details>
           <!--  OTHER  -->
   <details>
-    <summary>${\textsf{\color{#e94e4e}☀︎ ﾟ⋆°·☁︎ OTHER ☁︎·°⋆ ﾟ☀︎}}$</summary>
+    <summary>${\textsf{\color{#8fafbe}☀︎ ﾟ⋆°·☁︎ OTHER ☁︎·°⋆ ﾟ☀︎}}$</summary>
     <table>
       <tr>
         <td><i>creepcast/wendigoon/papa meat</i></td>
@@ -200,14 +199,14 @@ you also need to have a blank line between the opening div and the counter :3c -
 </div>
           
 *******
-<p align="center">${{\color{#62e562}\Huge{\texttt{✿⊹₊ BLINKIES/STAMPS/OTHER ₊⊹✿}}}}$ </p>
-<p align="center"><sup> ${{\color{#62e562}\small{\texttt{•*. all made by me, free to use! .*•}}}}$ </sup></p>
+<p align="center">${{\color{#eddcaa}\Huge{\texttt{✿⊹₊ BLINKIES/STAMPS/OTHER ₊⊹✿}}}}$ </p>
+<p align="center"><sup> ${{\color{#eddcaa}\small{\texttt{•*. all made by me, free to use! .*•}}}}$ </sup></p>
 
 *******
 <div align="center">
           <!--  BLINKIES  -->
   <details>
-    <summary>${\textsf{\color{#e94e4e}⊹₊˚‧ BLINKIES ‧˚₊⊹}}$</summary>
+    <summary>${\textsf{\color{#8fafbe}⊹₊˚‧ BLINKIES ‧˚₊⊹}}$</summary>
     <img width="150" src="https://files.catbox.moe/i67z5n.gif" alt="Kudos">
     <img width="150" src="https://files.catbox.moe/jz0e7s.gif" alt="Anti-harassment">
     <img width="150" src="https://files.catbox.moe/mbxfmg.gif" alt="shrimply irresistible">
@@ -223,7 +222,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   </details>
           <!--  STAMPS  -->
   <details>
-    <summary>${\textsf{\color{#62e562}⿴ □ ⬚ STAMPS ⬚ □ ⿴}}$</summary>
+    <summary>${\textsf{\color{#eddcaa}⿴ □ ⬚ STAMPS ⬚ □ ⿴}}$</summary>
     <img width="99" src="https://files.catbox.moe/nw8pp5.gif" alt="Crowley and Rowena (SPN)">
     <img width="99" src="https://files.catbox.moe/2874gw.png" alt="Akunin">
     <img width="99" src="https://files.catbox.moe/ge9tbf.gif" alt="Dean Winchester (SPN)">
@@ -268,7 +267,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   </details>
           <!--  BADGES  -->
   <details>
-    <summary>${\textsf{\color{#e94e4e}⋆˙⋆⟡ BADGES ⟡⋆˙⋆}}$</summary>
+    <summary>${\textsf{\color{#8fafbe}⋆˙⋆⟡ BADGES ⟡⋆˙⋆}}$</summary>
     <img height="18" src="https://files.catbox.moe/bwgu1d.gif" alt="Crowley luvr">
     <img height="18" src="https://files.catbox.moe/y318tr.gif" alt="Anti-anti">
     <img height="18" src="https://files.catbox.moe/7pg9lo.gif" alt="Don't like? Don't read!">
@@ -285,7 +284,7 @@ you also need to have a blank line between the opening div and the counter :3c -
   </details>
           <!--  BUTTONS  -->
   <details>
-    <summary>${\textsf{\color{#62e562}⋆˚✴︎⋆ BUTTONS ⋆✴︎˚⋆}}$</summary>
+    <summary>${\textsf{\color{#eddcaa}⋆˚✴︎⋆ BUTTONS ⋆✴︎˚⋆}}$</summary>
     <img width="88" src="https://files.catbox.moe/y9mk74.gif" alt="Kudos">
     <img width="88" src="https://files.catbox.moe/147x63.gif" alt="Wincest NOW!">
     <img width="88" src="https://files.catbox.moe/5pvobl.gif" alt="Jackles NOW!">
@@ -312,19 +311,18 @@ button - <a href="" title=""><img width="88" src="" alt=""></a>
   <p>YAY you made it to the bottom! here's a couple of my fave songs/vids for your enjoyment :3c</p>
   <sup>will prob change these out once a month or so...</sup>
   
-  <a href="https://www.youtube.com/watch?v=yKj0mF6ZtmU" title="A Very Family Christmas for the Winchesters! | Supernatural"><img src="https://files.catbox.moe/vox37b.png" alt="A Very Family Christmas for the Winchesters! | Supernatural"></a>
-  <a href="https://www.youtube.com/watch?v=efdN69QscAg" title="Merry Christmas"><img src="https://files.catbox.moe/tknzue.png" alt="Merry Christmas"></a>
+  <a href="https://www.youtube.com/watch?v=6uQk1ziEq8o" title="Horror Game Where Your Sister Decides To Eat The Neighbor - The Coffin of Andy and Leyley Episode 1"><img src="https://files.catbox.moe/ylytqt.png" alt="Horror Game Where Your Sister Decides To Eat The Neighbor - The Coffin of Andy and Leyley Episode 1"></a>
+  <a href="https://www.youtube.com/watch?v=w4sHoZ8qIqQ&t=860s" title="Northernlion watches the possessed skeleton video"><img src="https://files.catbox.moe/vmq3uh.png" alt="Northernlion watches the possessed skeleton video"></a>
 
-<a href="https://www.youtube.com/watch?v=Hgt81jAr_88" title="White Christmas - Jason Manns &amp; Jared Padalecki"><img width="100" src="https://files.catbox.moe/889mlc.jpg" alt="White Christmas - Jason Manns & Jared Padalecki">
-<a href="https://www.youtube.com/watch?v=UOo1VrXixEU" title="Long Ago - Adam Sandler &amp; Alison Krauss"><img width="100" src="https://files.catbox.moe/m98lcp.jpg" alt="Long Ago - Adam Sandler &amp; Alison Krauss">
-<a href="https://www.youtube.com/watch?v=N6YE6ocl27o" title="Mele Kalikimaka - Jschlatt"><img width="100" src="https://files.catbox.moe/ndpfaw.jpg" alt="Mele Kalikimaka - Jschlatt">
-<a href="https://www.youtube.com/watch?v=aHFCP5dsHbE" title="Every Snowflake's Different (Just Like You) - Yo Gabba Gabba ft. My Chemical Romance"><img width="100" src="https://files.catbox.moe/dbzb6o.jpg" alt="Every Snowflake's Different (Just Like You) - Yo Gabba Gabba ft. My Chemical Romance">
-<a href="https://www.youtube.com/watch?v=jRlXmCQvglk" title="Lonely Christmas Eve - Ben Folds"><img width="100" src="https://files.catbox.moe/pc2642.jpg" alt="Lonely Christmas Eve - Ben Folds">
-<a href="https://www.youtube.com/watch?v=6gQOBCz8hMg" title="Yule Shoot Your Eye Out - Fall Out Boy"><img width="100" src="https://files.catbox.moe/bflacd.jpg" alt="Yule Shoot Your Eye Out - Fall Out Boy">
-<a href="https://www.youtube.com/watch?v=zEzS_F9V6ic" title="Auld Lang Syne (Live) - Radio Company"><img width="100" src="https://files.catbox.moe/lvo44n.jpg" alt="Auld Lang Syne (Live) - Radio Company">
+<a href="https://www.youtube.com/watch?v=6hx2Ql_WmZE" title="Over and Over - Three Days Grace"><img width="100" src="https://files.catbox.moe/f0lip9.jpg" alt="Over and Over - Three Days Grace"></a>
+<a href="https://www.youtube.com/watch?v=9OfT8y9XqjA" title="Razzle Dazzle (Album Version)"><img width="100" src="https://files.catbox.moe/1no1nm.jpg" alt="Razzle Dazzle (Album Version)"></a>
+<a href="https://www.youtube.com/watch?v=v26sQZ1YKz8" title="Honeybee - Steam Powered Giraffe"><img width="100" src="https://files.catbox.moe/gtt9pj.jpg" alt="Honeybee - Steam Powered Giraffe"></a>
+<a href="https://www.youtube.com/watch?v=2X_2IdybTV0" title="Carry On Wayward Son - Kansas"><img width="100" src="https://files.catbox.moe/wiylqv.jpg" alt="Carry On My Wayward Son - Kansas"></a>
+<a href="https://www.youtube.com/watch?v=HP0e3ntJ7GY" title="When I'm Down - Radio Company"><img width="100" src="https://files.catbox.moe/askrja.jpg" alt="When I'm Down - Radio Company"></a>
+<a href="https://www.youtube.com/watch?v=5c3uGQHBGoU" title="Desensitized - Green Day"><img width="100" src="https://files.catbox.moe/tk86rf.jpg" alt="Desensitized - Green Day"></a>
+<a href="https://www.youtube.com/watch?v=iRvk9dkubLc" title="Dream Police - Cheap Trick"><img width="100" src="https://files.catbox.moe/4jl56s.jpg" alt="Dream Police - Cheap Trick"></a>
 
-
-  🤍🦨🖤 ${{\color{#e94e4e}\texttt{last updated on 12/01/2025 :3c}}}$ 🖤🦨🤍
+  🤍🦨🖤 ${{\color{#ffc1c9}\texttt{last updated on 01/05/2026 :3c}}}$ 🖤🦨🤍
 </div>
 <!--
 shhhhh secret sam winchester
