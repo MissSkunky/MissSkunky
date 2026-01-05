@@ -1,5 +1,5 @@
 <!--don't look at this it's a mess bc i'm too used to HTML and CSS </3-->
-<p align="center"><img width="16" src="https://files.catbox.moe/ou9hii.png"><img width="16" src="https://files.catbox.moe/7xfvrr.png"> ${{\color{#eddcaa}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ <img width="16" src="https://files.catbox.moe/614rsa.png"><img width="16" src="https://files.catbox.moe/4cd4iz.png"></p>
+<p align="center"><img width="16" src="https://files.catbox.moe/ou9hii.png"><img width="16" src="https://files.catbox.moe/7xfvrr.png"> ${{\color{#eddcaa}\Huge{\texttt{NO MINORS BEYOND THIS POINT!}}}}$ <img width="16" src="https://files.catbox.moe/4cd4iz.png"><img width="16" src="https://files.catbox.moe/614rsa.png"></p>
 
 <div align="center">
   <!--<a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a> -->
