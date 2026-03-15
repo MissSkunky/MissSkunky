@@ -5,14 +5,14 @@
   <!--<a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a> -->
   <a href="https://imgur.com/a/4sb0Hh7" target="_blank"><img width="700" src="https://files.catbox.moe/6eijhb.gif" alt="Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester standing in the dark, in front of a window, turning to look towards the camera"></a>
 </div> 
-
+<p align="center"><img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"> <img width="16" src="https://i.postimg.cc/7ZjGYBg8/skunk1.png"> <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> ${{\color{#ffc1c9}\tiny{\texttt{last updated on 03/15/2026 :3c}}}}$ <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> <img width="16" src="https://i.postimg.cc/HkFcsSQG/skunk2.png"> <img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"></p>
 <!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username=[YOURUSER]e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the brackets!  
 you also need to have a blank line between the opening div and the counter :3c -->
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=MissSkunkye&color=a37b47)
 </div>
-
+ 
 <div align="center">
   <a href="https://rentry.co/skunkyfaq"><img width="132" src="https://files.catbox.moe/i4q330.gif" alt="FAQ"></a>
   
@@ -48,13 +48,15 @@ you also need to have a blank line between the opening div and the counter :3c -
  
   ✩ i am ${{\color{#9db496}\Huge{\textsf{staunchly}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{proship,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{profiction,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{anti-harassment,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{and proud of it}}}}$ <a href="https://rentry.co/shipmeaning">[1]</a> <a href="https://define-proship.carrd.co/">[2]</a> <a href="https://proshipresourcesaccessible.carrd.co/">[3]</a>, i'm also a ${{\color{#9db496}\Huge{\textsf{darkshipper}}}}$ (won't talk about it around ppl who aren't comfy w it, but i am one), so if that bothers you. idk, leave. idk what to tell you
  
-  ♥ i'm 24, bisexual, chronically online, and strugging to stay alive 🤙
+  ♥ i'm 25, bisexual, chronically online, and strugging to stay alive 🤙
  
   ✩ i have pretty bad anxiety, so if i dip or just don't talk to you, that's prob why :S
  
   ♥ if you talk to me about supernatural (ESP sammy), there's a high chance i won't shut up
 
   ✩ i don't mind anyone cuddling/hiding behind me! i just ask that you don't cover my whole pony <3
+
+  ♥ i selfship HEAVY w sam & chuck from supernatural, and homelander & starlight from the boys :3 they're my babies
 *******
 
 <p align="center">${{\color{#eddcaa}\Huge{\texttt{✿⊹₊ DNI ₊⊹✿}}}}$ </p>
@@ -123,7 +125,7 @@ you also need to have a blank line between the opening div and the counter :3c -
         <td><i>american dad</i></td>
       </tr>
       <tr>
-        <td>american horror story</td>
+        <td><b><i>THE BOYS</i></b></td>
         <td>family guy</td>
         <td><i>spongebob</i></td>
         <td>tawog</td>
@@ -308,21 +310,19 @@ button - <a href="" title=""><img width="88" src="" alt=""></a>
 
 *******
 <div align="center">
-  <p>YAY you made it to the bottom! here's a couple of my fave songs/vids for your enjoyment :3c</p>
+  <p>YAY you made it to the bottom! here's a couple of cool songs/vids that i like, for your enjoyment :3c</p>
   <sup>will prob change these out once a month or so...</sup>
   
-  <a href="https://www.youtube.com/watch?v=6uQk1ziEq8o" title="Horror Game Where Your Sister Decides To Eat The Neighbor - The Coffin of Andy and Leyley Episode 1"><img src="https://files.catbox.moe/ylytqt.png" alt="Horror Game Where Your Sister Decides To Eat The Neighbor - The Coffin of Andy and Leyley Episode 1"></a>
-  <a href="https://www.youtube.com/watch?v=w4sHoZ8qIqQ&t=860s" title="Northernlion watches the possessed skeleton video"><img src="https://files.catbox.moe/vmq3uh.png" alt="Northernlion watches the possessed skeleton video"></a>
+  <a href="https://youtu.be/x3uuvb-NpjQ?si=d8P_jsyj1JoM3WVP" title="Fascism In Fandom: Is It Almost Too Late to Save Us?"><img src="https://files.catbox.moe/uy2yf8.png" alt="Fascism In Fandom: Is It Almost Too Late to Save Us?"></a>
+  <a href="https://youtu.be/4Fuu8ge1utI?si=iDhhnQ-S599UKPcu" title="Exploring the Security Breach Mod that BRINGS BACK Cut Content"><img src="https://files.catbox.moe/alcp0p.png" alt="Exploring the Security Breach Mod that BRINGS BACK Cut Content"></a>
 
-<a href="https://www.youtube.com/watch?v=6hx2Ql_WmZE" title="Over and Over - Three Days Grace"><img width="100" src="https://files.catbox.moe/f0lip9.jpg" alt="Over and Over - Three Days Grace"></a>
-<a href="https://www.youtube.com/watch?v=9OfT8y9XqjA" title="Razzle Dazzle (Album Version)"><img width="100" src="https://files.catbox.moe/1no1nm.jpg" alt="Razzle Dazzle (Album Version)"></a>
-<a href="https://www.youtube.com/watch?v=v26sQZ1YKz8" title="Honeybee - Steam Powered Giraffe"><img width="100" src="https://files.catbox.moe/gtt9pj.jpg" alt="Honeybee - Steam Powered Giraffe"></a>
-<a href="https://www.youtube.com/watch?v=2X_2IdybTV0" title="Carry On Wayward Son - Kansas"><img width="100" src="https://files.catbox.moe/wiylqv.jpg" alt="Carry On My Wayward Son - Kansas"></a>
-<a href="https://www.youtube.com/watch?v=HP0e3ntJ7GY" title="When I'm Down - Radio Company"><img width="100" src="https://files.catbox.moe/askrja.jpg" alt="When I'm Down - Radio Company"></a>
-<a href="https://www.youtube.com/watch?v=5c3uGQHBGoU" title="Desensitized - Green Day"><img width="100" src="https://files.catbox.moe/tk86rf.jpg" alt="Desensitized - Green Day"></a>
-<a href="https://www.youtube.com/watch?v=iRvk9dkubLc" title="Dream Police - Cheap Trick"><img width="100" src="https://files.catbox.moe/4jl56s.jpg" alt="Dream Police - Cheap Trick"></a>
-
-  🤍🦨🖤 ${{\color{#ffc1c9}\texttt{last updated on 01/05/2026 :3c}}}$ 🖤🦨🤍
+  <a href="https://www.youtube.com/watch?v=AuFS0UFXHNM" title="Dead to Rights - Radio Company"><img width="100" src="https://files.catbox.moe/s9jcqz.png" alt="Dead to Rights - Radio Company"></a>
+  <a href="https://www.youtube.com/watch?v=u6ivYQKkqBY" title="C U Next Tuesday - Kesha"><img width="100" src="https://files.catbox.moe/fhvvxh.png" alt="C U Next Tuesday - Kesha"></a>
+  <a href="https://www.youtube.com/watch?v=s9qIzC6gxJg" title="Walking Contradiction - Green Day"><img width="100" src="https://files.catbox.moe/xdt8v8.png" alt="Walking Contradiction - Green Day"></a>
+  <a href="https://www.youtube.com/watch?v=0DfpeC8AFbA" title="Everything Back But You - Avril Lavigne"><img width="100" src="https://files.catbox.moe/payvvu.png" alt="Everything Back But You"></a>
+  <a href="https://www.youtube.com/watch?v=yaYJ68Akj2M" title="Lost in You - Three Days Grace"><img width="100" src="https://files.catbox.moe/ku0iwx.png" alt="Lost in You - Three Days Grace"></a>
+  <a href="https://www.youtube.com/watch?v=oGWeHPK3NC4" title="Misguided Ghosts - Paramore"><img width="100" src="https://files.catbox.moe/jkonxi.png" alt="Misguided Ghosts - Paramore"></a>
+  <a href="https://www.youtube.com/watch?v=tqTrtOS3qIU" title="I'm Not the One - 3OH!3"><img width="100" src="https://files.catbox.moe/ca17j9.png" alt="I'm Not the One - 3OH!3"></a>
 </div>
 <!--
 shhhhh secret sam winchester
