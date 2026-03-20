@@ -5,7 +5,7 @@
   <!--<a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a> -->
   <a href="https://imgur.com/a/4sb0Hh7" target="_blank"><img width="700" src="https://files.catbox.moe/6eijhb.gif" alt="Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester standing in the dark, in front of a window, turning to look towards the camera"></a>
 </div> 
-<p align="center"><img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"> <img width="16" src="https://i.postimg.cc/7ZjGYBg8/skunk1.png"> <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> ${{\color{#ffc1c9}\tiny{\texttt{last updated on 03/15/2026 :3c}}}}$ <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> <img width="16" src="https://i.postimg.cc/HkFcsSQG/skunk2.png"> <img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"></p>
+<p align="center"><img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"> <img width="16" src="https://i.postimg.cc/7ZjGYBg8/skunk1.png"> <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> ${{\color{#ffc1c9}\tiny{\texttt{last updated on 03/20/2026 :3c}}}}$ <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> <img width="16" src="https://i.postimg.cc/HkFcsSQG/skunk2.png"> <img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"></p>
 <!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username=[YOURUSER]e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the brackets!  
 you also need to have a blank line between the opening div and the counter :3c -->
 <div align="center">
@@ -39,39 +39,38 @@ you also need to have a blank line between the opening div and the counter :3c -
 </div>
 
 *******
-<p align="center">${{\color{#8fafbe}\Huge{\texttt{˚✩°｡⋆ QUICK BYI/FAQ ⋆｡°✩˚}}}}$</h2>
+<p align="center">${{\color{#8fafbe}\Huge{\texttt{˚✩°｡⋆ BEFORE YOU INTERACT ⋆｡°✩˚}}}}$</h2>
 
 *******
+  ♥ i'm 25, bisexual, and chronically online. i like deco'ing rentries, collecting/creating web graphics, and being obnoxiously obsessed with fictional characters :3
+
   ✩ check out <a href="https://github.com/Michael-Afton1983">my sibling next to me!</a> or i'll Get You
  
   ♥ <strong>i chill on the safe server bc the 18+ server makes me uncomfortable. ppl there are way too sexual, and too many antis have told me to kms in some real nasty ways, so! i'm not going back you can't      make me</strong>
  
-  ✩ i am ${{\color{#9db496}\Huge{\textsf{staunchly}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{proship,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{profiction,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{anti-harassment,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{and proud of it}}}}$ <a href="https://rentry.co/shipmeaning">[1]</a> <a href="https://define-proship.carrd.co/">[2]</a> <a href="https://proshipresourcesaccessible.carrd.co/">[3]</a>, i'm also a ${{\color{#9db496}\Huge{\textsf{darkshipper}}}}$ (won't talk about it around ppl who aren't comfy w it, but i am one), so if that bothers you. idk, leave. idk what to tell you
+  ✩ if my name has "offtab" for >6 hours, i'm probably asleep and forgot to change my name! i'm not ignoring you i prommy
  
-  ♥ i'm 25, bisexual, chronically online, and strugging to stay alive 🤙
+  ♥ i don't mind anyone cuddling/hiding behind me! i just ask that you don't cover my whole pony <3
  
   ✩ i have pretty bad anxiety, so if i dip or just don't talk to you, that's prob why :S
  
-  ♥ if you talk to me about supernatural (ESP sammy), there's a high chance i won't shut up
+  ♥ i selfship HEAVY w sam, crowley, & chuck from supernatural, and homelander & starlight from the boys :3 (i don't mind doubles or whatever, sharing is caring)
 
-  ✩ i don't mind anyone cuddling/hiding behind me! i just ask that you don't cover my whole pony <3
-
-  ♥ i selfship HEAVY w sam & chuck from supernatural, and homelander & starlight from the boys :3 they're my babies
+  ✩ i am ${{\color{#9db496}\Huge{\textsf{staunchly}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{proship,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{profiction,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{anti-harassment,}}}}$ ${{\color{#ffc1c9}\Huge{\textsf{and proud of it}}}}$ <a href="https://rentry.co/shipmeaning">[1]</a> <a href="https://define-proship.carrd.co/">[2]</a> <a href="https://proshipresourcesaccessible.carrd.co/">[3]</a>, i'm also a ${{\color{#9db496}\Huge{\textsf{darkshipper}}}}$ (won't talk about it around ppl who aren't comfy w it, but i am one), so if that bothers you. idk, leave. idk what to tell you
 *******
 
-<p align="center">${{\color{#eddcaa}\Huge{\texttt{✿⊹₊ DNI ₊⊹✿}}}}$ </p>
-<p align="center"><sup> ${{\color{#eddcaa}\small{\texttt{•*. but not really bc they don't work and i block liberally .*•}}}}$ </sup></p>
+<p align="center">${{\color{#eddcaa}\Huge{\texttt{✿⊹₊ DO NOT FOLLOW ₊⊹✿}}}}$ </p>
 
 *******
-  ⸙ mean people. if you're just rude, or think it's funny to bully ppl bc they're "cringe", do not talk to me <3 
+  ⸙ mean people. if you're just rude, or think it's funny to bully ppl/misgender ppl bc they're "cringe" or you don't like them, do not talk to me <3 
 
   𓋼 antis. obviously. we're just not gonna agree.
 
   ⚘ tcc. cool with zero day fans, and i'm okay with discussing it, but if you genuinely like dylan klebold, adam lanza, randy stair, etc., don't int w me please
 
-  ↟ sam winchester haters, destiel fans/hellers, (some) castiel stans. i respect that y'all like what you like, but i don't like the same things. (i also just Don't Like cas or misha)
+  ↟ sam winchester haters, destiel fans/hellers, (some) castiel stans, misha stans. i respect that y'all like what you like, but i don't like the same things. i also just think misha's a shitty person (<a href="https://postimg.cc/gallery/6RWWNN9">this is why</a>)
 
-  ☘︎ minors are on thin ice. you can interact, i'll be nice, but i'm not tryna be besties with a child, ya dig
+  ☘︎ minors. you can interact, i'll be nice, but i'm not trying to be besties with a child, ya dig?
 *******
 <p align="center">${{\color{#8fafbe}\Huge{\texttt{˚✩°｡⋆ INTERESTS ⋆｡°✩˚}}}}$ </p>
 <p align="center"><sup> ${{\color{#8fafbe}\small{\texttt{•*. (italic are heavy likes, bold + italic are hyperfixations) .*•}}}}$ </sup></p>
