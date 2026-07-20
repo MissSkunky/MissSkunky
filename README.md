@@ -5,8 +5,10 @@
   <!--<a href="https://files.catbox.moe/3mqecu.jpg" target="_blank"><img width="1000" src="https://files.catbox.moe/ntpsn9.gif" alt="Jared Padalecki and Jensen Ackles each sitting at the end of the bed, Jared is rubbing Jensen's knee"></a> -->
   <a href="https://imgur.com/a/4sb0Hh7" target="_blank"><img width="700" src="https://files.catbox.moe/6eijhb.gif" alt="Jared Padalecki as Sam Winchester and Jensen Ackles as Dean Winchester standing in the dark, in front of a window, turning to look towards the camera"></a>
 </div> 
-<p align="center"><img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"> <img width="16" src="https://i.postimg.cc/7ZjGYBg8/skunk1.png"> <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> ${{\color{#ffc1c9}\tiny{\texttt{last updated on 03/20/2026 :3c}}}}$ <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> <img width="16" src="https://i.postimg.cc/HkFcsSQG/skunk2.png"> <img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"></p>
-<!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username=[YOURUSER]e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the brackets!  
+<p align="center"><img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"> <img width="16" src="https://i.postimg.cc/7ZjGYBg8/skunk1.png"> <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> ${{\color{#ffc1c9}\tiny{\texttt{last (FINAL) update on 03/20/2026 :3c}}}}$ <img width="16" src="https://i.postimg.cc/nhNjcdq6/heart1.png"> <img width="16" src="https://i.postimg.cc/HkFcsSQG/skunk2.png"> <img width="16" src="https://i.postimg.cc/qvWhMm2P/heart2.png"></p>
+<p align="center"> sooo i'm quitting ponytown bc it's too expensive + they removed my socials for "adult content" even on the 18+ server :') + their total lack of moderation and the lack of email responses has gotten on my LAST nerve. i'm on discord @missskunky, if you wanna contact me there <3 all my links + this gh will stay here for the forseeable future</p>
+
+  <!--psst, if you wanna use this, just copy paste this - ![](https://komarev.com/ghpvc/?username=[YOURUSER]e&color=ff63c1) - just replace "YOUR USER" with your username AND remove the brackets!  
 you also need to have a blank line between the opening div and the counter :3c -->
 <div align="center">
 
